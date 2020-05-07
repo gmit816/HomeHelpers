@@ -1,0 +1,30 @@
+.tt {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 11px/15px Verdana, Helvetica, sans-serif; WIDTH: 250px; PADDING-TOP: 0px
+}
+.tt .body {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.tt .header {
+	LEFT: -999px; POSITION: absolute; TOP: -999px
+}
+.ttPosUnder {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_tooltip_top_left.gif) no-repeat left top; PADDING-BOTTOM: 0px; PADDING-TOP: 13px
+}
+.ttPosUnder .body {
+	BORDER-RIGHT: #666 1px solid; PADDING-RIGHT: 17px; BORDER-TOP: #666 0px solid; PADDING-LEFT: 8px; BACKGROUND: #ffffe5; PADDING-BOTTOM: 10px; BORDER-LEFT: #666 1px solid; PADDING-TOP: 12px; BORDER-BOTTOM: #666 1px solid
+}
+.ttPosOver {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_tooltip_btm_left.gif) no-repeat left bottom; PADDING-BOTTOM: 13px; PADDING-TOP: 0px
+}
+.ttPosOver .body {
+	BORDER-RIGHT: #666 1px solid; PADDING-RIGHT: 17px; BORDER-TOP: #666 1px solid; PADDING-LEFT: 8px; BACKGROUND: #ffffe5; PADDING-BOTTOM: 12px; BORDER-LEFT: #666 1px solid; PADDING-TOP: 8px; BORDER-BOTTOM: #666 0px solid
+}
+.balloonCallout .body {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px
+}
+.balloonCallout .body UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 10px 10px 10px 15px; PADDING-TOP: 0px
+}
+.balloonCallout .body OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 10px 10px 10px 15px; PADDING-TOP: 0px
+}

@@ -1,0 +1,42 @@
+SPAN.unlocalizedText {
+	BORDER-TOP-WIDTH: 0px! important; PADDING-RIGHT: 0px! important; DISPLAY: inline! important; PADDING-LEFT: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BACKGROUND-IMAGE: none! important; BORDER-BOTTOM-WIDTH: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important; BORDER-RIGHT-WIDTH: 0px! important
+}
+SPAN.unlocalizedMktgText {
+	BORDER-TOP-WIDTH: 0px! important; PADDING-RIGHT: 0px! important; DISPLAY: inline! important; PADDING-LEFT: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BACKGROUND-IMAGE: none! important; BORDER-BOTTOM-WIDTH: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important; BORDER-RIGHT-WIDTH: 0px! important
+}
+SPAN.fullyLeverFileText {
+	BORDER-TOP-WIDTH: 0px! important; PADDING-RIGHT: 0px! important; DISPLAY: inline! important; PADDING-LEFT: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BACKGROUND-IMAGE: none! important; BORDER-BOTTOM-WIDTH: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important; BORDER-RIGHT-WIDTH: 0px! important
+}
+SPAN.translatedFileText {
+	BORDER-TOP-WIDTH: 0px! important; PADDING-RIGHT: 0px! important; DISPLAY: inline! important; PADDING-LEFT: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BACKGROUND-IMAGE: none! important; BORDER-BOTTOM-WIDTH: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important; BORDER-RIGHT-WIDTH: 0px! important
+}
+SPAN.multipurposeText {
+	BORDER-TOP-WIDTH: 0px! important; PADDING-RIGHT: 0px! important; DISPLAY: inline! important; PADDING-LEFT: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BACKGROUND-IMAGE: none! important; BORDER-BOTTOM-WIDTH: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important; BORDER-RIGHT-WIDTH: 0px! important
+}
+SPAN.regionalText {
+	BORDER-TOP-WIDTH: 0px! important; PADDING-RIGHT: 0px! important; DISPLAY: inline! important; PADDING-LEFT: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BACKGROUND-IMAGE: none! important; BORDER-BOTTOM-WIDTH: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important; BORDER-RIGHT-WIDTH: 0px! important
+}
+SPAN.excludedText {
+	BORDER-TOP-WIDTH: 0px! important; PADDING-RIGHT: 0px! important; DISPLAY: inline! important; PADDING-LEFT: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BACKGROUND-IMAGE: none! important; BORDER-BOTTOM-WIDTH: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important; BORDER-RIGHT-WIDTH: 0px! important
+}
+SPAN.unlocalizedText {
+	BACKGROUND-COLOR: #cff
+}
+SPAN.unlocalizedMktgText {
+	BACKGROUND-COLOR: #4f8bed
+}
+SPAN.fullyLeverFileText {
+	BACKGROUND-COLOR: #b1f5b4
+}
+SPAN.translatedFileText {
+	BACKGROUND-COLOR: #f4e898
+}
+SPAN.multipurposeText {
+	BACKGROUND-COLOR: #ffbb70
+}
+SPAN.regionalText {
+	BACKGROUND-COLOR: #ffcfff
+}
+SPAN.excludedText {
+	BACKGROUND-COLOR: #ff7070
+}

@@ -1,0 +1,2821 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+PRE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+SELECT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TEXTAREA {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BLOCKQUOTE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+HR {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TABLE {
+	BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+FIELDSET {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+HR {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+abbr {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+ADDRESS {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+CAPTION {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+CITE {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+CODE {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+DFN {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+EM {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+STRONG {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+TH {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+VAR {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+OL {
+	LIST-STYLE-TYPE: none
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+CAPTION {
+	TEXT-ALIGN: left
+}
+TH {
+	TEXT-ALIGN: left
+}
+H1 {
+	FONT-SIZE: 100%
+}
+H2 {
+	FONT-SIZE: 100%
+}
+H3 {
+	FONT-SIZE: 100%
+}
+H4 {
+	FONT-SIZE: 100%
+}
+H5 {
+	FONT-SIZE: 100%
+}
+H6 {
+	FONT-SIZE: 100%
+}
+HR {
+	DISPLAY: none
+}
+LEGEND {
+	COLOR: #000
+}
+BODY {
+	BORDER-RIGHT: #fff 7px solid; PADDING-RIGHT: 0px; BORDER-TOP: #fff 7px solid; OVERFLOW-Y: auto; PADDING-LEFT: 0px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/header/header_bg.gif) #fff repeat-x 0px 83px; PADDING-BOTTOM: 10px; FONT: 0.75em/1.2 Arial, Helvetica, sans-serif; BORDER-LEFT: #fff 7px solid; COLOR: #000; PADDING-TOP: 10px; BORDER-BOTTOM: #fff 7px solid
+}
+STRONG {
+	FONT-WEIGHT: bold
+}
+LEGEND {
+	DISPLAY: none
+}
+.error {
+	COLOR: #f00
+}
+SPAN.translatedFileText {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important
+}
+SPAN.untranslatedText {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important
+}
+.unavailable {
+	DISPLAY: none
+}
+DIV.unavailable#fieldrowCCNumber {
+	MARGIN: 1.2em 0px -0.6em
+}
+.messageBox {
+	HEIGHT: 48px
+}
+.disabled {
+	COLOR: #ccc
+}
+DIV#header {
+	MARGIN: 0px auto; WIDTH: 63.2em
+}
+DIV#main {
+	MARGIN: 0px auto; WIDTH: 63.2em
+}
+DIV#footerhps {
+	MARGIN: 0px auto; WIDTH: 63.2em
+}
+DIV#header {
+	MIN-HEIGHT: 78px! important; MARGIN-BOTTOM: 15px; OVERFLOW: hidden; POSITION: static; HEIGHT: 78px
+}
+DIV#control {
+	FLOAT: right; WIDTH: 33%
+}
+DIV#content {
+	FLOAT: left; WIDTH: 60%
+}
+DIV#footerhps {
+	CLEAR: both; PADDING-TOP: 2.6em
+}
+DIV#header H1 {
+	OVERFLOW-Y: hidden; FONT-SIZE: 24px; OVERFLOW-X: auto; MARGIN-BOTTOM: 0px! important; WIDTH: 600px; COLOR: #000! important; LINE-HEIGHT: 1em! important; PADDING-TOP: 24px; WHITE-SPACE: pre; HEIGHT: 43px
+}
+#rosetta {
+	LEFT: 605px! important; TOP: 20px! important
+}
+DIV#header DIV.logo {
+	WIDTH: 150px; HEIGHT: 50px
+}
+DIV#header IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.control#main DIV#control {
+	FLOAT: none
+}
+DIV.content#main DIV#content {
+	WIDTH: 100%
+}
+DIV#main H1 {
+	FONT-SIZE: 1.4em; MARGIN-BOTTOM: 20px; PADDING-BOTTOM: 10px; COLOR: #326698; POSITION: relative
+}
+DIV#main H1 SPAN {
+	FLOAT: left; WIDTH: 540px
+}
+DIV#post-header {
+	CLEAR: left; PADDING-TOP: 10px
+}
+H1 IMG {
+	RIGHT: 0px; POSITION: absolute; TOP: -10px
+}
+P.description {
+	FONT-SIZE: 0.9em; TEXT-ALIGN: right
+}
+P.description A.secure {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 0px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/icon/secure_lock_2.gif) no-repeat right center; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+P.instructions {
+	MARGIN: 0px 0px 1.5em; WIDTH: 60%; TEXT-ALIGN: left
+}
+P.instructions STRONG.requiredText {
+	MARGIN-TOP: 1.1em; DISPLAY: block
+}
+DIV.content#main P.instructions {
+	WIDTH: 70%
+}
+INPUT.transparentButton {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FONT-SIZE: 1.1em! important; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px! important; MARGIN: 0px; CURSOR: hand; COLOR: #03c! important; BORDER-TOP-STYLE: none! important; PADDING-TOP: 0px! important; BORDER-RIGHT-STYLE: none! important; BORDER-LEFT-STYLE: none! important; TEXT-ALIGN: left! important; BORDER-BOTTOM-STYLE: none! important
+}
+DIV#footerhps P {
+	FONT-SIZE: 0.9em; COLOR: #666
+}
+DIV#footerhps A {
+	COLOR: #666
+}
+FORM {
+	MARGIN-TOP: 30px
+}
+FORM.signup {
+	WIDTH: 35.72em
+}
+FORM P {
+	FONT-SIZE: 1.2em; MARGIN: 1.2em 0px
+}
+FORM P.note {
+	FONT-SIZE: 0.9em
+}
+DIV.notes P {
+	FONT-SIZE: 0.9em
+}
+DIV#content P {
+	PADDING-LEFT: 15em
+}
+DIV#content DIV.buttonrow {
+	PADDING-LEFT: 15em
+}
+DIV#afterform DIV.buttonrow {
+	PADDING-LEFT: 15em
+}
+DIV#content P.hint {
+	FONT-SIZE: 1em
+}
+DIV#content P.note {
+	MARGIN-TOP: 0px; PADDING-LEFT: 18.8em; FONT-SIZE: 0.9em; MARGIN-BOTTOM: 0px; COLOR: #aaa! important
+}
+DIV#content P.footernote {
+	PADDING-LEFT: 18.8em; FONT-SIZE: 0.9em; MARGIN: 1.2em 0px 0px; COLOR: #aaa! important
+}
+DIV#content P.returnto {
+	MARGIN-TOP: 50px; PADDING-LEFT: 0px; FONT-SIZE: 1.1em
+}
+DIV#afterform P.returnto {
+	MARGIN-TOP: 50px; PADDING-LEFT: 0px; FONT-SIZE: 1.1em
+}
+DIV#content FORM P.note {
+	MARGIN: 0px; COLOR: #aaa
+}
+FORM P#tos {
+	PADDING-LEFT: 13.6em; FONT-SIZE: 1.1em; Z-INDEX: 10; MARGIN: 7px 0px 0px; WIDTH: 300px
+}
+FORM P#existingPP {
+	PADDING-LEFT: 13.6em; FONT-SIZE: 1.1em; Z-INDEX: 10; MARGIN: 7px 0px 0px; WIDTH: 300px
+}
+DIV#content .selected {
+	BACKGROUND-COLOR: #edf4fc
+}
+DIV#content DIV.fieldrow {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+DIV.fieldrow {
+	MARGIN-BOTTOM: 2px
+}
+DIV.fieldRow {
+	MARGIN-BOTTOM: 2px
+}
+FIELDSET.payment-type {
+	MARGIN-BOTTOM: 2px
+}
+DIV.funding-mix FIELDSET#funding-mix DIV.payment-type {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+DIV.fieldrow LABEL {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 2px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; WIDTH: 14.2em; PADDING-TOP: 0px
+}
+DIV.fieldRow LABEL {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 2px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; WIDTH: 14.2em; PADDING-TOP: 0px
+}
+DIV.fieldrow SPAN.label {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 2px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; WIDTH: 14.2em; PADDING-TOP: 0px
+}
+DIV.payment-type SPAN.label {
+	WIDTH: 12em! important
+}
+DIV.fieldrow INPUT {
+	BORDER-RIGHT: #83a8cc 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #83a8cc 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; BORDER-LEFT: #83a8cc 1px solid; WIDTH: 18em; PADDING-TOP: 1px; BORDER-BOTTOM: #83a8cc 1px solid
+}
+DIV.fieldRow INPUT {
+	BORDER-RIGHT: #83a8cc 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #83a8cc 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; BORDER-LEFT: #83a8cc 1px solid; WIDTH: 18em; PADDING-TOP: 1px; BORDER-BOTTOM: #83a8cc 1px solid
+}
+INPUT.radio {
+	BORDER-TOP-WIDTH: 0px! important; BORDER-LEFT-WIDTH: 0px! important; BORDER-BOTTOM-WIDTH: 0px! important; WIDTH: 1em! important; MARGIN-RIGHT: 2px; BORDER-RIGHT-WIDTH: 0px! important
+}
+INPUT.yodlee {
+	MARGIN-LEFT: 45px; WIDTH: 1em! important; MARGIN-RIGHT: 10px
+}
+DIV.fieldrow SELECT {
+	WIDTH: 18.3em
+}
+DIV.fieldrow SELECT#credit_card_type {
+	MARGIN-LEFT: 0px
+}
+DIV.fieldrow DIV.value {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 40em; PADDING-TOP: 0px
+}
+DIV.buttonrow INPUT {
+	BORDER-RIGHT: #f90 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #f90 1px solid; PADDING-LEFT: 10px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/btn/btn_main_1x50.gif) #fcbb49 repeat-x left top; PADDING-BOTTOM: 0px; FONT: bold 12px arial; OVERFLOW: visible; BORDER-LEFT: #f90 1px solid; WIDTH: auto; COLOR: #fff; MARGIN-RIGHT: 10px; PADDING-TOP: 1px; BORDER-BOTTOM: #f90 1px solid; LETTER-SPACING: 1px; HEIGHT: 22px
+}
+DIV.buttonRow INPUT {
+	BORDER-RIGHT: #f90 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #f90 1px solid; PADDING-LEFT: 10px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/btn/btn_main_1x50.gif) #fcbb49 repeat-x left top; PADDING-BOTTOM: 0px; FONT: bold 12px arial; OVERFLOW: visible; BORDER-LEFT: #f90 1px solid; WIDTH: auto; COLOR: #fff; MARGIN-RIGHT: 10px; PADDING-TOP: 1px; BORDER-BOTTOM: #f90 1px solid; LETTER-SPACING: 1px; HEIGHT: 22px
+}
+DIV.buttonrow INPUT#review {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 1px
+}
+DIV.buttonRow INPUT#review {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 1px
+}
+DIV.buttonrow INPUT {
+	CURSOR: pointer
+}
+DIV.buttonRow INPUT {
+	CURSOR: pointer
+}
+DIV.buttonrow INPUT:active {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+DIV.buttonRow INPUT:active {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+DIV.buttonrow INPUT.done {
+	BORDER-RIGHT: #85a7ca 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #85a7ca 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/btn/btn_secondary_1x50.gif) #afc8f1 repeat-x left top; PADDING-BOTTOM: 0px; BORDER-LEFT: #85a7ca 1px solid; COLOR: #fff; PADDING-TOP: 2px; BORDER-BOTTOM: #85a7ca 1px solid
+}
+DIV.buttonRow INPUT.done {
+	BORDER-RIGHT: #85a7ca 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #85a7ca 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/btn/btn_secondary_1x50.gif) #afc8f1 repeat-x left top; PADDING-BOTTOM: 0px; BORDER-LEFT: #85a7ca 1px solid; COLOR: #fff; PADDING-TOP: 2px; BORDER-BOTTOM: #85a7ca 1px solid
+}
+DIV.buttonrow INPUT.cancel {
+	BORDER-RIGHT: #acadaf 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #acadaf 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/btn/btn_cancel_1x50.gif) #cfcfcf repeat-x left top; PADDING-BOTTOM: 0px; BORDER-LEFT: #acadaf 1px solid; COLOR: #777; PADDING-TOP: 2px; BORDER-BOTTOM: #acadaf 1px solid
+}
+DIV.buttonRow INPUT.cancel {
+	BORDER-RIGHT: #acadaf 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #acadaf 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/btn/btn_cancel_1x50.gif) #cfcfcf repeat-x left top; PADDING-BOTTOM: 0px; BORDER-LEFT: #acadaf 1px solid; COLOR: #777; PADDING-TOP: 2px; BORDER-BOTTOM: #acadaf 1px solid
+}
+DIV.buttonrow INPUT.disabled {
+	BORDER-RIGHT: #acadaf 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #acadaf 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/btn/btn_cancel_1x50.gif) #bcbcbb repeat-x left top; PADDING-BOTTOM: 0px; BORDER-LEFT: #acadaf 1px solid; COLOR: #acadaf; PADDING-TOP: 2px; BORDER-BOTTOM: #acadaf 1px solid
+}
+DIV.buttonRow INPUT.disabled {
+	BORDER-RIGHT: #acadaf 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #acadaf 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/btn/btn_cancel_1x50.gif) #bcbcbb repeat-x left top; PADDING-BOTTOM: 0px; BORDER-LEFT: #acadaf 1px solid; COLOR: #acadaf; PADDING-TOP: 2px; BORDER-BOTTOM: #acadaf 1px solid
+}
+DIV.buttonrow INPUT.disabled:hover {
+	CURSOR: default
+}
+DIV.buttonRow INPUT.disabled:hover {
+	CURSOR: default
+}
+FIELDSET.payment-type {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 2px
+}
+FIELDSET.payment-type:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+FIELDSET.payment-type INPUT {
+	FLOAT: left; MARGIN: 0px; WIDTH: auto
+}
+FIELDSET.payment-type INPUT.hidden {
+	DISPLAY: none
+}
+FIELDSET.payment-type LABEL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 10px 0px 0px; WIDTH: 37px; TEXT-INDENT: -12345px; PADDING-TOP: 0px; HEIGHT: 23px
+}
+
+@media Unknown    
+{
+FIELDSET.payment-type {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FIELDSET.payment-type INPUT {
+	MARGIN-RIGHT: 2px
+}
+FIELDSET.payment-type LABEL {
+	MARGIN-RIGHT: 6px
+}
+    }
+FIELDSET.payment-type LABEL#pm-visa {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/logo/logo_ccVisa.gif) no-repeat 0px 0px; MARGIN-LEFT: 0px
+}
+FIELDSET.payment-type LABEL#pm-amex {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/logo/logo_ccAmex.gif) no-repeat 0px 0px; MARGIN-RIGHT: 0px
+}
+FIELDSET.payment-type LABEL#pm-mastercard {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/logo/logo_ccMC.gif) no-repeat 0px 0px
+}
+FIELDSET.payment-type LABEL#pm-discover {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/logo/logo_ccDiscover.gif) no-repeat 0px 0px
+}
+DIV.checkbox {
+	CLEAR: both; PADDING-LEFT: 17.25em! important; MARGIN-BOTTOM: 4px
+}
+DIV.checkbox LABEL {
+	WIDTH: auto
+}
+DIV.checkbox INPUT {
+	WIDTH: auto
+}
+DIV.checkbox LABEL {
+	PADDING-LEFT: 1.5em; FLOAT: none
+}
+DIV.checkbox INPUT {
+	MARGIN-TOP: 0px; FLOAT: left
+}
+DIV.region {
+	FLOAT: left
+}
+DIV.region SELECT {
+	WIDTH: auto! important
+}
+DIV.street-address {
+	CLEAR: left
+}
+DIV.extended-address {
+	CLEAR: left
+}
+DIV.locality {
+	CLEAR: left
+}
+DIV.tel {
+	CLEAR: left
+}
+DIV.country_specific_br LABEL {
+	PADDING-BOTTOM: 1.5em
+}
+DIV.postal-code {
+	CLEAR: left
+}
+DIV.postal-code LABEL {
+	WIDTH: 14.2em
+}
+DIV.postal-code INPUT {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 2px; PADDING-BOTTOM: 1px; WIDTH: 5.6em; PADDING-TOP: 1px
+}
+INPUT#zip {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 2px; PADDING-BOTTOM: 1px; WIDTH: 5.6em; PADDING-TOP: 1px
+}
+DIV.hidden {
+	DISPLAY: none
+}
+DIV.zipcode {
+	CLEAR: left
+}
+DIV.country_specific {
+	WIDTH: 36em! important; TEXT-ALIGN: left
+}
+DIV.country_specific .hint {
+	PADDING-RIGHT: 0px! important; DISPLAY: block; PADDING-LEFT: 0px! important; FONT-SIZE: 0.9em; PADDING-BOTTOM: 0px! important; MARGIN: 0px 0px 0px 16.5em; COLOR: #aaa; PADDING-TOP: 0px! important
+}
+DIV.country_specific LABEL {
+	PADDING-LEFT: 2px; WIDTH: 14.2em! important; TEXT-ALIGN: left! important
+}
+DIV.country_specific_es {
+	CLEAR: left
+}
+DIV.country_specific_de {
+	CLEAR: left
+}
+BODY#review DIV.country_specific LABEL {
+	PADDING-LEFT: 2px; WIDTH: 8em! important; TEXT-ALIGN: left! important
+}
+DIV.country_specific_fr LABEL {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; WIDTH: 7.7em! important; TEXT-ALIGN: left! important
+}
+DIV.country_specific INPUT {
+	FLOAT: none; WIDTH: 5.6em
+}
+DIV.en_de LABEL {
+	WIDTH: 14.2em! important
+}
+DIV#edit-shipping-address DIV.en_de LABEL {
+	WIDTH: 8em! important
+}
+BODY#billing DIV#content DIV.buttonrow {
+	MARGIN-TOP: 3.3em
+}
+DIV.extended-address {
+	HEIGHT: auto! important
+}
+DIV.extended-address SPAN.optional-text {
+	FONT: 11px arial; COLOR: #666
+}
+DIV.extended-address LABEL.country_specificl_it {
+	HEIGHT: 1px
+}
+DIV#create-account {
+	CLEAR: both; MARGIN-TOP: 30px; PADDING-LEFT: 15em; WIDTH: 25.3em; PADDING-TOP: 15px
+}
+DIV#create-account .change-link {
+	DISPLAY: none; COLOR: #000; TEXT-DECORATION: none
+}
+DIV#create-account DIV.selected {
+	BACKGROUND-COLOR: #fff! important
+}
+DIV#create-account H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 0.9em; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_dhtml_open_22x22.gif) #eee no-repeat left center; PADDING-BOTTOM: 0.4em; MARGIN: 0px; CURSOR: hand; PADDING-TOP: 0.4em
+}
+DIV#create-account H2 INPUT.transparentButton {
+	MARGIN-LEFT: 2.5em! important; OVERFLOW: visible; TEXT-DECORATION: underline! important
+}
+DIV#create-account H2.change-link {
+	PADDING-RIGHT: 2em! important; PADDING-LEFT: 2.5em! important; FONT-WEIGHT: normal; FONT-SIZE: 0.9em; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_dhtml_open_22x22.gif) #eee no-repeat left center; PADDING-BOTTOM: 0.4em! important; CURSOR: hand; PADDING-TOP: 0.4em! important
+}
+DIV#create-account H2.expanded {
+	BACKGROUND-IMAGE: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_dhtml_closed_22x22.gif)
+}
+DIV#create-account H2 SPAN.optional {
+	FONT-SIZE: 0.9em
+}
+DIV#create-account FIELDSET {
+	PADDING-RIGHT: 2.5em; DISPLAY: none; PADDING-LEFT: 2.5em; FONT-SIZE: 0.9em; PADDING-BOTTOM: 0px; WIDTH: auto; PADDING-TOP: 0px
+}
+DIV#create-account .password-create INPUT {
+	WIDTH: 95%
+}
+DIV#create-account .password-confirm INPUT {
+	WIDTH: 95%
+}
+DIV#create-account DIV.checkbox LABEL {
+	PADDING-RIGHT: 0px! important; MARGIN-TOP: 4px; DISPLAY: block; PADDING-LEFT: 0px! important; FONT-SIZE: 12px; FLOAT: left; PADDING-BOTTOM: 0px! important; WIDTH: 17.6em; COLOR: #000; PADDING-TOP: 0px! important
+}
+DIV#create-account DIV.checkbox INPUT {
+	MARGIN-LEFT: -0.25em; MARGIN-RIGHT: 0px
+}
+DIV#create-account P.note {
+	PADDING-LEFT: 0px! important
+}
+DIV#create-account P.password-note {
+	PADDING-LEFT: 0px! important
+}
+DIV#create-account LABEL {
+	PADDING-LEFT: 0px! important
+}
+DIV#create-account DIV.checkbox {
+	PADDING-LEFT: 0px! important
+}
+DIV#create-account P.note {
+	FONT-SIZE: 11px; COLOR: #666
+}
+DIV#create-account P.password-note {
+	MARGIN-TOP: 5px; FONT-SIZE: 11px; MARGIN-BOTTOM: 5px; COLOR: #666
+}
+DIV.login {
+	BORDER-RIGHT: #cdf 5px solid; PADDING-RIGHT: 1px; BORDER-TOP: #cdf 5px solid; PADDING-LEFT: 1px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_gradientdown.gif) repeat-x 50% bottom; PADDING-BOTTOM: 1px; BORDER-LEFT: #cdf 5px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #cdf 5px solid
+}
+DIV.login DIV.fieldrow INPUT {
+	WIDTH: 99%
+}
+DIV.login DIV.fieldRow INPUT {
+	WIDTH: 99%
+}
+DIV.login DIV.fieldrow LABEL {
+	PADDING-LEFT: 0px
+}
+DIV.login DIV.fieldRow LABEL {
+	PADDING-LEFT: 0px
+}
+DIV.login DIV.fieldrow {
+	MARGIN-BOTTOM: 14px
+}
+DIV.login DIV.fieldRow {
+	MARGIN-BOTTOM: 14px
+}
+DIV.login FIELDSET {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+DIV.login DIV.buttonrow {
+	MARGIN-TOP: 1.2em
+}
+DIV.login DIV.buttonRow {
+	MARGIN-TOP: 1.2em
+}
+DIV.login DIV.buttonrow INPUT {
+	PADDING-RIGHT: 1.65em; PADDING-LEFT: 1.65em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.4em
+}
+DIV.login P.intro {
+	MARGIN-TOP: 0px; COLOR: #84a7cd; FONT-FAMILY: "Gill Sans MT", "Gill Sans", sans-serif; LETTER-SPACING: 0.1em
+}
+DIV.login P.login-challenge {
+	MARGIN-TOP: 0px; COLOR: #84a7cd; FONT-FAMILY: "Gill Sans MT", "Gill Sans", sans-serif; LETTER-SPACING: 0.1em
+}
+DIV.login P.intro STRONG {
+	DISPLAY: block; FONT-WEIGHT: normal; COLOR: #013368; TEXT-INDENT: 1.5em
+}
+DIV.login DIV.notes {
+	BORDER-TOP: #e2e2e2 1px solid; MARGIN: 1.2em 0px
+}
+BODY#login P.instructions {
+	FONT-SIZE: 1.1em! important; WIDTH: 80%
+}
+BODY#login DIV.control#main DIV#control {
+	FLOAT: right
+}
+BODY#login DIV.control#main DIV#content {
+	WIDTH: 50%
+}
+BODY#login DIV#content P.login {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1em! important; PADDING-BOTTOM: 0px; MARGIN: 1.3em 0px 0px; PADDING-TOP: 0px
+}
+BODY#login DIV#content P.list {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1em! important; PADDING-BOTTOM: 0px; MARGIN: 1em 0px 0px 0.5em; COLOR: #333333; TEXT-INDENT: -0.5em; PADDING-TOP: 0px
+}
+BODY#login DIV#content H3 {
+	COLOR: #326698
+}
+BODY#login DIV#content UL {
+	LIST-STYLE-POSITION: inside; MARGIN: 1em 0px 0px 1em; LIST-STYLE-TYPE: disc
+}
+BODY#login DIV#content LI {
+	PADDING-RIGHT: 0.3em; PADDING-LEFT: 0.3em; PADDING-BOTTOM: 0.3em; PADDING-TOP: 0.3em
+}
+BODY#login DIV#control {
+	BORDER-RIGHT: #cde 5px solid; PADDING-RIGHT: 15px; BORDER-TOP: #cde 5px solid; PADDING-LEFT: 15px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_gradientdown.gif) repeat-x 50% bottom; PADDING-BOTTOM: 15px; MARGIN: 15px 0px 50px; BORDER-LEFT: #cde 5px solid; WIDTH: 40%; PADDING-TOP: 15px; BORDER-BOTTOM: #cde 5px solid
+}
+BODY#login DIV#control DIV.login {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 10px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+BODY#login DIV#control DIV.login FIELDSET {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+BODY#login DIV#control DIV.login DIV.fieldrow {
+	PADDING-RIGHT: 0px; MARGIN-BOTTOM: 6px; MARGIN-RIGHT: 0px
+}
+BODY#login DIV#control DIV.login DIV.fieldRow {
+	PADDING-RIGHT: 0px; MARGIN-BOTTOM: 6px; MARGIN-RIGHT: 0px
+}
+BODY#login DIV#control DIV.login P.intro {
+	FONT-WEIGHT: bold; COLOR: #013368
+}
+BODY#login DIV#control DIV.login P.intro STRONG {
+	FONT-WEIGHT: bold; TEXT-INDENT: 0px
+}
+BODY#login DIV#content P.return {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 0px; FONT-SIZE: 0.9em! important; PADDING-BOTTOM: 0px; PADDING-TOP: 3em
+}
+BODY#login DIV#control DIV.login LABEL {
+	DISPLAY: block; FLOAT: left; WIDTH: 7.75em
+}
+BODY#login DIV#control DIV.login INPUT {
+	MARGIN: 0px; WIDTH: 12.9em
+}
+BODY#login DIV.fieldrow INPUT {
+	MARGIN: 0px; WIDTH: 12.9em
+}
+BODY#login DIV.fieldRow INPUT {
+	MARGIN: 0px; WIDTH: 12.9em
+}
+BODY#login DIV.buttonrow INPUT {
+	MARGIN: 0px; WIDTH: auto! important
+}
+BODY#login DIV.buttonRow INPUT {
+	MARGIN: 0px; WIDTH: auto! important
+}
+BODY#login DIV.fieldrow INPUT {
+	WIDTH: 12.9em
+}
+BODY#login DIV.fieldRow INPUT {
+	WIDTH: 12.9em
+}
+BODY#login DIV.buttonrow {
+	MARGIN-LEFT: 8.4em
+}
+BODY#login DIV.buttonRow {
+	MARGIN-LEFT: 8.4em
+}
+BODY#login DIV.notes {
+	MARGIN-LEFT: 8.4em
+}
+BODY#login DIV.notes {
+	MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 1.2em; PADDING-TOP: 9px
+}
+BODY#login DIV.notes P.note {
+	PADDING-LEFT: 0px
+}
+BODY#login P.note {
+	PADDING-LEFT: 9.4em; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-TOP: 3px
+}
+BODY#login #xptCardIcons {
+	MARGIN: 1em 0px 0px
+}
+.account {
+	PADDING-TOP: 12em
+}
+BODY#gl-test DIV#content FORM.login {
+	MARGIN-TOP: 3em; WIDTH: 47em
+}
+BODY#gl-test DIV.fieldrow {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+BODY#gl-test DIV.fieldrow LABEL {
+	PADDING-TOP: 4px
+}
+BODY#gl-test DIV.fieldrow INPUT {
+	MARGIN: 0px; WIDTH: auto
+}
+BODY#gl-test .note {
+	FONT-SIZE: 0.9em
+}
+BODY#gl-test P.note {
+	PADDING-LEFT: 1.4em
+}
+BODY#gl-test DIV.fieldrow IMG {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; MARGIN: 0px 0.8em; VERTICAL-ALIGN: middle; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+BODY#billing DIV#billing-info-completed {
+	CLEAR: both; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+BODY#billing DIV#billing-info-completed UL#billing-info-text {
+	FLOAT: left
+}
+BODY#billing DIV#contact-info-completed {
+	CLEAR: both; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+BODY#billing DIV#contact-info-completed UL#contact-info-text {
+	FLOAT: left
+}
+BODY#billing A.change-link {
+	DISPLAY: none
+}
+INPUT.secondary {
+	BORDER-RIGHT: #85a7ca 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #85a7ca 1px solid; PADDING-LEFT: 10px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/btn/btn_secondary_1x50.gif) #83a9ce repeat-x left top; FONT: bold 12px Arial; BORDER-LEFT: #85a7ca 1px solid; WIDTH: auto; CURSOR: hand; COLOR: #336699; BORDER-BOTTOM: #85a7ca 1px solid; HEIGHT: 22px
+}
+.PayPalSecureHeader {
+	MARGIN: 0px auto 30px; WIDTH: 63.2em; HEIGHT: 40px
+}
+.PayPalSecureHeaderContent {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.4em; FLOAT: left; COLOR: #326698; PADDING-TOP: 10px
+}
+.PayPalSecureHeader A {
+	FLOAT: right
+}
+BODY#review P.instructions {
+	FONT-SIZE: 1em
+}
+BODY#review DIV.fieldrow LABEL {
+	WIDTH: 17.75em
+}
+BODY#review FORM {
+	MARGIN-TOP: 5px
+}
+BODY#review SELECT {
+	WIDTH: 20em
+}
+BODY#review FIELDSET {
+	CLEAR: both; PADDING-RIGHT: 0px; BORDER-TOP: #fff 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 17px; PADDING-TOP: 17px; BORDER-BOTTOM: #ddd 1px solid
+}
+BODY#review FIELDSET:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+BODY#review DIV.share-tel {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 2px! important; MARGIN: -4px 0px 0px; WIDTH: 25em; PADDING-TOP: 2px! important
+}
+BODY#review DIV.share-tel LABEL {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 2px; PADDING-LEFT: 2px; FONT-SIZE: 0.9em; FLOAT: left; WIDTH: 25em
+}
+BODY#review DIV.share-tel INPUT {
+	FLOAT: left; WIDTH: 1.2em
+}
+BODY#review A#change-contact-information {
+	PADDING-TOP: 3px
+}
+BODY#review DIV.buttonrow#primary {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; HEIGHT: 24px; BACKGROUND-COLOR: #f4f7f9; TEXT-ALIGN: right
+}
+BODY#review DIV.credit-card {
+	CLEAR: both
+}
+BODY#review FIELDSET.last {
+	BORDER-BOTTOM-STYLE: none
+}
+BODY#review #contact-information {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 0px
+}
+BODY#review #shipping-address {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 0px
+}
+BODY#review #funding-mix-box {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 0px
+}
+BODY#review #information-to-merchant {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 0px
+}
+BODY#review #funding-mix-box {
+	CLEAR: right
+}
+BODY#review FIELDSET#funding-mix {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: -4em; WIDTH: 530px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+BODY#review FIELDSET#funding-mix INPUT#cvv2_number {
+	WIDTH: 2.5em
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow {
+	WIDTH: 42em; HEIGHT: 2.5em! important
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL {
+	DISPLAY: block; PADDING-LEFT: 4em! important; FLOAT: left; WIDTH: 24em; HEIGHT: 1.7em
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow SPAN.label {
+	DISPLAY: block; PADDING-LEFT: 4em! important; FLOAT: left; WIDTH: 24em; HEIGHT: 1.7em
+}
+BODY#review FIELDSET#funding-mix DIV.funding-item DIV.fieldrow LABEL {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 0px! important; PADDING-TOP: 0px! important
+}
+BODY#review FIELDSET#funding-mix DIV.funding-item DIV.fieldrow SPAN.label {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 0px! important; PADDING-TOP: 0px! important
+}
+BODY#review DIV.funding-mix FIELDSET#funding-mix DIV.additionaltype {
+	MARGIN-LEFT: 0px! important; PADDING-TOP: 1em
+}
+BODY#review DIV.funding-mix FIELDSET#funding-mix DIV.backup-funds {
+	MARGIN-LEFT: 4.4em
+}
+BODY#review DIV.funding-mix FIELDSET#funding-mix DIV.switchInstant {
+	MARGIN-LEFT: 4em; PADDING-TOP: 1em
+}
+BODY#review DIV.funding-mix FIELDSET#funding-mix #preapprovalwidget {
+	MARGIN-LEFT: 3.8em! important
+}
+BODY#review FIELDSET#funding-mix DIV.disclaimer {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 4.6em; PADDING-BOTTOM: 1.5em; WIDTH: 40em; PADDING-TOP: 2em
+}
+BODY#review FIELDSET#funding-mix DIV.cvv2-code LABEL {
+	WIDTH: auto
+}
+BODY#review FIELDSET#funding-mix DIV.cvv2-code .value {
+	WIDTH: auto; TEXT-ALIGN: left
+}
+BODY#review FIELDSET#funding-mix DIV.cvv2-code .value INPUT {
+	MARGIN-RIGHT: 0.5em
+}
+BODY#review FIELDSET#funding-mix DIV.upsell {
+	PADDING-LEFT: 4em; PADDING-BOTTOM: 1em; HEIGHT: auto! important
+}
+BODY#review FIELDSET#funding-mix DIV.disclaimer {
+	FONT-SIZE: 90%; COLOR: #999; HEIGHT: auto! important
+}
+BODY#review FIELDSET#funding-mix DIV.disclaimer P {
+	PADDING-LEFT: 0pt; FONT-SIZE: 1em
+}
+BODY#review FIELDSET#funding-mix DIV.instruction P {
+	PADDING-LEFT: 0pt; FONT-SIZE: 1em
+}
+BODY#review FIELDSET#funding-mix DIV.instruction {
+	PADDING-LEFT: 4em; HEIGHT: auto! important
+}
+BODY#review FIELDSET#funding-mix DIV.instruction INPUT {
+	MARGIN: 2px 0px -1px; WIDTH: auto! important; HEIGHT: auto! important
+}
+BODY#review FIELDSET#funding-mix DIV.upsell INPUT {
+	MARGIN: 2px 0px -1px; WIDTH: auto! important; HEIGHT: auto! important
+}
+BODY#review FIELDSET#funding-mix DIV.help-link {
+	PADDING-LEFT: 4em; WIDTH: 38em
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-V {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/logo/logo_ccVisa.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-M {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/logo/logo_ccMC.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-J {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/JP/i/icon/logo_cc_jcb.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-D {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/logo/logo_ccDiscover.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-A {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/logo/logo_ccAmex.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-S {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/logo/logo_ccSwitch.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-O {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/logo/logo_ccSolo.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-IEFT {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/de_DE/i/logo/giropay_48x21.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-ELV {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/de_DE/i/logo/eccash_21x21.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-N-FR {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/FR/i/logo/logo_ccAurora_37wx23h.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-N-ES {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/ES/i/logo/logo_ccAurora_37wx23h.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-N-IT {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/IT/i/logo/logo_ccAurora_37wx23h.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-Q {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/FR/i/logo/logo_ccCofinoga_22wx23h.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-L {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/FR/i/logo/logo_ccCofidis_37wx23h.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL IMG.FI {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0.8em; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow .value {
+	DISPLAY: block; FLOAT: right; WIDTH: 10em; TEXT-ALIGN: right
+}
+BODY#review FIELDSET#funding-mix DIV.uach .value {
+	DISPLAY: block; FLOAT: right; WIDTH: 10em; TEXT-ALIGN: right
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow .amount {
+	PADDING-RIGHT: 0pt; DISPLAY: block; PADDING-LEFT: 0pt; FLOAT: left; PADDING-BOTTOM: 0pt; MARGIN-LEFT: 15px; PADDING-TOP: 3px; TEXT-ALIGN: right
+}
+BODY#review FIELDSET#funding-mix DIV.uach .amount {
+	PADDING-RIGHT: 0pt; DISPLAY: block; PADDING-LEFT: 0pt; FLOAT: left; PADDING-BOTTOM: 0pt; MARGIN-LEFT: 15px; PADDING-TOP: 3px; TEXT-ALIGN: right
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow .currency {
+	DISPLAY: block; FLOAT: right; WIDTH: 3em; TEXT-ALIGN: right
+}
+BODY#review FIELDSET#funding-mix DIV.uach .currency {
+	DISPLAY: block; FLOAT: right; WIDTH: 3em; TEXT-ALIGN: right
+}
+BODY#review FIELDSET#funding-mix DIV.backup-funds {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 90%; PADDING-BOTTOM: 0px; COLOR: #999; PADDING-TOP: 0.75em
+}
+BODY#review FIELDSET#funding-mix DIV#navigational-links {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 4em; PADDING-BOTTOM: 0px; PADDING-TOP: 10px
+}
+BODY#review FIELDSET#funding-mix DIV.chinaBankList {
+	MARGIN-TOP: 1.5em; PADDING-LEFT: 4em; FLOAT: left
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-C {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/fr_FR/FR/i/logo/logo_ccCB_37wx23h.gif) no-repeat 0px 0px
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL#pm-s {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/logo/logo_STAR_37x23.gif) no-repeat 0px 0px; HEIGHT: 3.4em
+}
+BODY#review FIELDSET#funding-mix DIV.fieldrow LABEL IMG.FI {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0.8em; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.chinaBankList INPUT {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+BODY#review DIV#exchange-rate {
+	PADDING-LEFT: 4em; WIDTH: 38em
+}
+BODY#review A#exchange-rate-options {
+	PADDING-LEFT: 0.5em; WIDTH: 38em
+}
+BODY#review DIV#open-wax-cc-add {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 4em; PADDING-BOTTOM: 1.75em; WIDTH: 38em; PADDING-TOP: 1.5em
+}
+BODY#review DIV#ccStatement {
+	PADDING-LEFT: 4em; FLOAT: left; WIDTH: 38em; COLOR: #999; PADDING-TOP: 0.8em
+}
+BODY#review DIV.repaymentDisclaimer {
+	PADDING-LEFT: 4em; WIDTH: 38em; COLOR: #999
+}
+BODY#review DIV.edit {
+	CLEAR: both; BORDER-RIGHT: #cde 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #cde 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; MARGIN: 0px 0px 0px 18.25em; BORDER-LEFT: #cde 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #cde 1px solid
+}
+BODY#review DIV.edit H3 {
+	MARGIN-BOTTOM: 0.5em
+}
+BODY#review DIV.edit H3#disabledListHeading {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 38em; PADDING-TOP: 1.1em
+}
+BODY#review DIV.edit FIELDSET {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_hashedbg_4x4.gif) center 50%; PADDING-BOTTOM: 10px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 10px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+BODY#review DIV.edit FIELDSET LABEL {
+	WIDTH: 8em
+}
+BODY#review DIV.edit LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+BODY#review DIV.edit FIELDSET LI LABEL {
+	FLOAT: none; WIDTH: auto
+}
+BODY#review DIV.edit FIELDSET LI INPUT {
+	FLOAT: none; WIDTH: auto
+}
+BODY#review DIV.edit FIELDSET LI LABEL {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 1.6; PADDING-TOP: 0px
+}
+BODY#review DIV.edit FIELDSET LI A {
+	PADDING-LEFT: 5px; FONT-SIZE: 0.9em
+}
+BODY#review DIV.edit FIELDSET LI INPUT {
+	VERTICAL-ALIGN: middle; MARGIN-RIGHT: 0.25em
+}
+BODY#review DIV.edit FIELDSET DIV.checkbox {
+	PADDING-LEFT: 6.5em! important
+}
+BODY#review DIV.edit FIELDSET DIV.checkbox LABEL {
+	FONT-SIZE: 0.9em; WIDTH: auto
+}
+BODY#review DIV.edit DIV.buttonrow {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 6px
+}
+BODY#review DIV.edit DIV.buttonrow INPUT {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+BODY#review DIV.edit DIV.buttonrow A {
+	DISPLAY: inline; FONT-SIZE: 0.9em; VERTICAL-ALIGN: 4%
+}
+BODY#review #insert-shipping-address DIV.buttonrow {
+	PADDING-LEFT: 8.7em
+}
+BODY#review FIELDSET.add DIV.buttonrow {
+	PADDING-LEFT: 5.8em
+}
+BODY#review DIV.edit DIV.gift-certificate {
+	MARGIN: 0px
+}
+BODY#review DIV.edit DIV.gift-certificate .note {
+	FONT-SIZE: 0.9em
+}
+BODY#review DIV.edit DIV.gift-certificate LABEL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: none; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: auto; PADDING-TOP: 0px
+}
+BODY#review DIV.edit DIV.gift-certificate INPUT {
+	MARGIN-RIGHT: 5px; TEXT-ALIGN: left
+}
+BODY#review FIELDSET DIV.shipping-address P#no-shipping-note {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FONT-SIZE: 1em; FLOAT: left; PADDING-BOTTOM: 0px! important; MARGIN: 0px 0px 0px 48px; COLOR: #000; PADDING-TOP: 0px! important
+}
+BODY#review DIV.edit DIV.postal-code LABEL {
+	WIDTH: 8em
+}
+BODY#review .add DIV.tel LABEL {
+	WIDTH: 9em
+}
+BODY#review .add DIV.tel INPUT {
+	WIDTH: 9em
+}
+BODY#review #insert-phone-number DIV.buttonrow {
+	PADDING-LEFT: 9.8em
+}
+BODY#review #insert-phone-number P.note {
+	PADDING-LEFT: 11em! important; COLOR: #666! important
+}
+BODY#review A.change-link {
+	CLEAR: both; DISPLAY: none
+}
+BODY#review .type {
+	DISPLAY: none
+}
+BODY#review .value .value {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+BODY#review DIV#content P.note {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 0.25em; PADDING-BOTTOM: 0px; COLOR: #000; PADDING-TOP: 0px
+}
+BODY#review TABLE INPUT {
+	WIDTH: auto! important
+}
+BODY#review .edit {
+	DISPLAY: none
+}
+BODY#review .open {
+	DISPLAY: block; POSITION: relative
+}
+BODY#review .expand {
+	DISPLAY: block
+}
+BODY#review DIV.billing-agree {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 2px! important; MARGIN: -4px 0px 0px; WIDTH: 25em; PADDING-TOP: 2px! important
+}
+DIV.billing-agree-withoutcheckbox {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 2px! important; MARGIN: -4px 0px 0px; WIDTH: 25em; PADDING-TOP: 2px! important
+}
+BODY#review DIV.billing-agree LABEL {
+	MARGIN-TOP: 4px; FONT-SIZE: 1em; MARGIN-LEFT: 2px; WIDTH: auto
+}
+BODY#review DIV.billing-agree-withoutcheckbox LABEL {
+	MARGIN-TOP: 4px; FONT-SIZE: 1em; MARGIN-LEFT: 0px; WIDTH: auto
+}
+BODY#review DIV.billing-agree {
+	MARGIN-LEFT: -0.25em
+}
+DIV.billing-agree-withoutcheckbox INPUT {
+	MARGIN-LEFT: -0.25em
+}
+BODY#review .v2 .region {
+	DISPLAY: block
+}
+BODY#review .adr v3 .address {
+	DISPLAY: inline
+}
+BODY#review .v4 .street-address {
+	DISPLAY: inline
+}
+BODY#review .v3 .extended-address {
+	DISPLAY: inline
+}
+BODY#review .v4 .extended-address {
+	DISPLAY: inline
+}
+BODY#review .v4 .country {
+	DISPLAY: inline
+}
+BODY#review .v4 .postal-code {
+	DISPLAY: block
+}
+BODY#review .v5 .addressee-name {
+	DISPLAY: block
+}
+BODY#review .v5 .postal-code {
+	DISPLAY: block
+}
+BODY#review DIV.credit-card TABLE P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; FONT: 1em/1.2 Arial, Helvetica, sans-serif; MARGIN-LEFT: 0px; PADDING-TOP: 0px
+}
+BODY#review FIELDSET#funding-mix DIV.repaymentOption LABEL {
+	DISPLAY: block; FLOAT: left; WIDTH: auto
+}
+BODY#review FIELDSET#funding-mix DIV.repaymentOption SELECT {
+	DISPLAY: block; FLOAT: left; WIDTH: auto
+}
+BODY#review DIV#cowp-wrapper DIV.funding-mix DIV.value#funding-mix-box FIELDSET#funding-mix DIV.repaymentOption LABEL {
+	WIDTH: auto
+}
+BODY#review FIELDSET#funding-mix SPAN.repaymentResult {
+	MARGIN-TOP: 4px; DISPLAY: block
+}
+BODY#review A#edit-new-address {
+	DISPLAY: none
+}
+BODY#review A#edit-new-phone {
+	DISPLAY: none
+}
+BODY#review A#add-shipping-address {
+	DISPLAY: none
+}
+DIV.expanded#edit-gift-certificate {
+	POSITION: relative; TOP: 0.6em
+}
+BODY#review DIV#edit-gift-certificate {
+	FLOAT: right; MARGIN: 0px 0px 5px; WIDTH: 22.5em; TEXT-ALIGN: left
+}
+BODY#review DIV#edit-gift-certificate LABEL {
+	DISPLAY: block; MARGIN: 0px 0px 5px
+}
+BODY#review DIV#edit-gift-certificate .note {
+	DISPLAY: block; MARGIN: 5px 0px 0px
+}
+DIV#funding-mix-box DIV.payment-type {
+	HEIGHT: 1%
+}
+#billing-info-form {
+	HEIGHT: 1%
+}
+#contact-info-form {
+	HEIGHT: 1%
+}
+DIV.bcupsell {
+	BACKGROUND-IMAGE: none; MARGIN: 0px 0px 1em; WIDTH: 44em; BACKGROUND-COLOR: #e4ecf4
+}
+DIV.bcupsell H3 {
+	VISIBILITY: hidden
+}
+DIV.bcupsell DIV.benefitsbc {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 61px! important; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/bnr/bnr_ppbcsn_51wx32h.gif) no-repeat 10px 10px; PADDING-BOTTOM: 10px! important; PADDING-TOP: 10px! important
+}
+DIV.bcupsell DIV.benefitsebaycard {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 61px! important; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/icon/icon_eBayMC_51x32.gif) no-repeat 10px 10px; PADDING-BOTTOM: 10px! important; PADDING-TOP: 10px! important
+}
+DIV.bcupsell DIV.benefitspc {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 61px! important; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/bnr/bnr_pppsn_51wx32h.gif) no-repeat 10px 10px; PADDING-BOTTOM: 10px! important; PADDING-TOP: 10px! important
+}
+DIV.bcupsell DIV.benefitstbc {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 61px! important; PADDING-BOTTOM: 10px! important; PADDING-TOP: 10px! important
+}
+DIV.bcupsell DIV INPUT {
+	MARGIN-LEFT: 15px; WIDTH: 80px
+}
+DIV#csc-information2 {
+	DISPLAY: none; Z-INDEX: 1; LEFT: 760px; POSITION: absolute; TOP: 480px
+}
+DIV#save-information2 {
+	DISPLAY: none; Z-INDEX: 1; LEFT: 590px; POSITION: absolute; TOP: 780px
+}
+DL.quick-faq {
+	DISPLAY: inline; POSITION: relative
+}
+DL.quick-faq-hover {
+	DISPLAY: inline; POSITION: relative
+}
+DL.quick-faq {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DL.quick-faq DT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DL.quick-faq DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DL.quick-faq-hover {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DL.quick-faq-hover DT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DL.quick-faq-hover DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DL.quick-faq:hover DD {
+	DISPLAY: block
+}
+DL.hover DD {
+	DISPLAY: block
+}
+DL.quick-faq-hover:hover DD {
+	DISPLAY: block
+}
+DL.hover DD {
+	DISPLAY: block
+}
+DL.quick-faq DT {
+	DISPLAY: inline
+}
+DL.quick-faq-hover DT {
+	DISPLAY: inline
+}
+DL.quick-faq DD {
+	DISPLAY: none; LEFT: 10%; WIDTH: 100%; BOTTOM: 1em; POSITION: absolute; TOP: -7em
+}
+DL.quick-faq-hover DD {
+	DISPLAY: block; LEFT: 30%; WIDTH: 100%; BOTTOM: 1em; POSITION: absolute; TOP: -7em
+}
+DIV.tooltip {
+	BORDER-TOP: #000 1px solid; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_tooltip_bottom_left.gif) no-repeat left bottom; LEFT: 20px; FONT: 11px Arial, Helvetica, sans-serif; WIDTH: 250px; POSITION: relative; TOP: 30px
+}
+DIV.tooltip DIV.content {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 5px; RIGHT: -5px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_tooltip_right_6x500.gif) no-repeat 100% 100%; PADDING-BOTTOM: 15px; PADDING-TOP: 5px; POSITION: relative; TEXT-ALIGN: left
+}
+DIV.tooltip DIV.content P {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px 0px 5px; FONT: 11px Arial, sans-serif; PADDING-TOP: 0px! important
+}
+BODY#done FORM {
+	MARGIN-TOP: 5px
+}
+BODY#done FIELDSET#create-account .fieldrow INPUT {
+	WIDTH: 175px
+}
+BODY#done FIELDSET DIV.buttonrow {
+	MARGIN-TOP: 20px
+}
+BODY#done .email {
+	MARGIN: 10px 0px
+}
+BODY#done .create-password {
+	MARGIN: 10px 0px
+}
+BODY#done .create-password P.note {
+	MARGIN-TOP: 0px; FONT-SIZE: 0.9em; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 180px; COLOR: #aaa
+}
+BODY#done .confirm-password {
+	MARGIN: 10px 0px
+}
+BODY#done .create-password-button {
+	MARGIN-LEFT: 180px
+}
+BODY#done DIV.notes {
+	CLEAR: both; PADDING-TOP: 10px
+}
+BODY#done DIV.doubleclick {
+	BORDER-TOP: #e8e8e8 1px solid; MARGIN: 30px 0px 25px; PADDING-TOP: 30px
+}
+BODY#done DIV.order-information {
+	CLEAR: both; WIDTH: 100%; LINE-HEIGHT: 17px
+}
+BODY#done DIV.order-information H2 {
+	FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; COLOR: #aaa
+}
+BODY#done DIV.order-information:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+BODY#done #shipping-address {
+	FLOAT: left; MARGIN-RIGHT: 100px
+}
+BODY#done #merchant-contact-information {
+	FLOAT: left
+}
+BODY#done #shipping-method {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px; PADDING-TOP: 0px
+}
+BODY#done #shipping-method H2 {
+	FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; COLOR: #aaaaaa
+}
+BODY#done FIELDSET DIV.notes {
+	MARGIN-TOP: 0px; PADDING-LEFT: 14.9em; PADDING-TOP: 0px
+}
+DIV.buttonrow DIV.done INPUT {
+	BORDER-RIGHT: #85a7ca 1px solid; BORDER-TOP: #85a7ca 1px solid; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/btn/btn_secondary_1x50.gif) #afc8f1 repeat-x left top; BORDER-LEFT: #85a7ca 1px solid; WIDTH: 175px; BORDER-BOTTOM: #85a7ca 1px solid
+}
+BODY#loginChallenge P.instructions {
+	FONT-SIZE: 1em! important; WIDTH: 50.1%
+}
+BODY#loginChallenge P.instructions STRONG {
+	PADDING-LEFT: 0.3em
+}
+BODY#loginChallenge DIV.control#main DIV#control {
+	MARGIN-TOP: -30px; DISPLAY: none; FLOAT: right
+}
+BODY#loginChallenge DIV.control#main DIV#control-challenge {
+	MARGIN-TOP: -30px; FLOAT: right
+}
+BODY#loginChallenge DIV.control#main DIV#content {
+	WIDTH: 50%
+}
+BODY#loginChallenge DIV#content P.login {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1em! important; PADDING-BOTTOM: 0px; MARGIN: 1em 0px 0px; PADDING-TOP: 0px
+}
+BODY#loginChallenge DIV#control {
+	BORDER-RIGHT: #cdf 5px solid; PADDING-RIGHT: 10px; BORDER-TOP: #cdf 5px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #cdf 5px solid; WIDTH: 40%; PADDING-TOP: 10px; BORDER-BOTTOM: #cdf 5px solid
+}
+BODY#loginChallenge H3 {
+	COLOR: #326698
+}
+BODY#loginChallenge DIV#control-challenge {
+	BORDER-RIGHT: #cdf 5px solid; PADDING-RIGHT: 20px; BORDER-TOP: #cdf 5px solid; MARGIN-TOP: 15px; PADDING-LEFT: 20px; PADDING-BOTTOM: 20px; BORDER-LEFT: #cdf 5px solid; WIDTH: 40%; PADDING-TOP: 0px; BORDER-BOTTOM: #cdf 5px solid
+}
+BODY#loginChallenge DIV#control DIV.login {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 10px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+BODY#loginChallenge DIV#control-challenge DIV.login {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 10px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+BODY#loginChallenge DIV#control DIV.login FIELDSET {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+BODY#loginChallenge DIV#control-challenge DIV.login FIELDSET {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+BODY#loginChallenge DIV#control DIV.login DIV.fieldrow {
+	PADDING-RIGHT: 0px; MARGIN-BOTTOM: 6px; MARGIN-RIGHT: 0px
+}
+BODY#loginChallenge DIV#control DIV.login DIV.fieldRow {
+	PADDING-RIGHT: 0px; MARGIN-BOTTOM: 6px; MARGIN-RIGHT: 0px
+}
+BODY#loginChallenge DIV.buttonrow {
+	MARGIN-LEFT: 8.4em
+}
+BODY#loginChallenge DIV.buttonRow {
+	MARGIN-LEFT: 8.4em
+}
+BODY#loginChallenge DIV.notes {
+	MARGIN-LEFT: 8.4em
+}
+BODY#loginChallenge DIV#control DIV.login P.intro {
+	FONT-WEIGHT: bold; COLOR: #013368
+}
+BODY#loginChallenge DIV#control DIV.login LABEL {
+	DISPLAY: block; FLOAT: left; WIDTH: 7.75em
+}
+BODY#loginChallenge DIV#control DIV.login INPUT {
+	MARGIN: 0px; WIDTH: auto
+}
+BODY#loginChallenge DIV.fieldrow INPUT {
+	WIDTH: 12.9em
+}
+BODY#login DIV.fieldRow INPUT {
+	WIDTH: 12.9em
+}
+BODY#loginChallenge DIV#control-challenge DIV.login-challenge P.login-challenge {
+	PADDING-LEFT: 50px; FONT-WEIGHT: bold; COLOR: #069
+}
+BODY#loginChallenge DIV#control-challenge DIV.login-challenge P.note {
+	MARGIN-TOP: -10px; PADDING-LEFT: 30px; FONT-SIZE: 1em! important
+}
+BODY#loginChallenge DIV.content-below {
+	WIDTH: 100%
+}
+BODY#loginChallenge DIV.content-below:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+BODY#loginChallenge P#return {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 0px; FONT-SIZE: 0.9em! important; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 50%; MARGIN-RIGHT: 100px; PADDING-TOP: 20em
+}
+BODY#loginChallenge P#continue {
+	FONT-SIZE: 13px; FLOAT: left
+}
+BODY#loginChallenge P#continue1 {
+	PADDING-LEFT: 480px; FONT-SIZE: 13px; PADDING-TOP: 120px
+}
+BODY#loginChallenge P.note {
+	MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 15px
+}
+BODY#loginChallenge UL {
+	MARGIN: 1em 0px 0px 1em; LIST-STYLE-TYPE: disc
+}
+BODY#loginChallenge LI {
+	PADDING-RIGHT: 0.3em; PADDING-LEFT: 0.3em; PADDING-BOTTOM: 0.3em; PADDING-TOP: 0.3em
+}
+BODY#done FORM P.tos {
+	FONT-SIZE: 1.1em; Z-INDEX: 10; MARGIN-BOTTOM: 0px; WIDTH: 300px
+}
+BODY#done UL.transfer-note {
+	MARGIN: 15px 0px 10px 35px; LIST-STYLE-TYPE: disc
+}
+BODY#done SPAN.small {
+	FONT-SIZE: 11px
+}
+DIV#content P.toslux {
+	PADDING-LEFT: 16.4em; FONT-SIZE: 11px; MARGIN-BOTTOM: 2px; COLOR: #808080
+}
+DIV#contentlux P.toslux {
+	PADDING-LEFT: 16.4em; FONT-SIZE: 11px; MARGIN-BOTTOM: 2px; COLOR: #808080
+}
+DIV#content P.black STRONG {
+	FONT-WEIGHT: bold; COLOR: #000
+}
+DIV#contentlux P.black STRONG {
+	FONT-WEIGHT: bold; COLOR: #000
+}
+DIV#content P.simple {
+	COLOR: #000
+}
+DIV#contentlux P.simple {
+	COLOR: #000
+}
+DIV#content UL.toslux {
+	PADDING-LEFT: 18em; FONT-SIZE: 11px; MARGIN-BOTTOM: 0px; COLOR: #808080; LIST-STYLE-TYPE: disc
+}
+DIV#contentlux UL.toslux {
+	PADDING-LEFT: 18em; FONT-SIZE: 11px; MARGIN-BOTTOM: 0px; COLOR: #808080; LIST-STYLE-TYPE: disc
+}
+#alertContainerSecond {
+	BORDER-RIGHT: #ffcc00 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ffcc00 1px solid; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN: 0px 0px 20px; BORDER-LEFT: #ffcc00 1px solid; WIDTH: 450px; PADDING-TOP: 10px; BORDER-BOTTOM: #ffcc00 1px solid; BACKGROUND-COLOR: #ffffcc
+}
+.listContainer {
+	FLOAT: left
+}
+.disabledListContainer {
+	CLEAR: left; MARGIN: 0px 0px 0.3em; COLOR: #999
+}
+#alertContainerThird {
+	BORDER-RIGHT: #ffcc00 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ffcc00 1px solid; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN: 0px 0px 20px; BORDER-LEFT: #ffcc00 1px solid; WIDTH: 450px; PADDING-TOP: 10px; BORDER-BOTTOM: #ffcc00 1px solid; BACKGROUND-COLOR: #ffffcc
+}
+.errorLeftBox {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/icon/icon_noncritalert.gif) no-repeat left top; FLOAT: left; WIDTH: 50px; HEIGHT: 50px
+}
+.errorRightBox {
+	FLOAT: left; WIDTH: 400px; COLOR: #ff0000
+}
+DIV.fieldrow INPUT.radioBorderNone {
+	BORDER-RIGHT: 0pt; BORDER-TOP: 0pt; BORDER-LEFT: 0pt; BORDER-BOTTOM: 0pt
+}
+DIV.fieldRow INPUT.radioBorderNone {
+	BORDER-RIGHT: 0pt; BORDER-TOP: 0pt; BORDER-LEFT: 0pt; BORDER-BOTTOM: 0pt
+}
+DIV.fieldRow INPUT.checkboxBorderNone {
+	BORDER-RIGHT: 0pt; BORDER-TOP: 0pt; BORDER-LEFT: 0pt; BORDER-BOTTOM: 0pt
+}
+DIV.fieldrow INPUT.checkboxBorderNone {
+	BORDER-RIGHT: 0pt; BORDER-TOP: 0pt; BORDER-LEFT: 0pt; BORDER-BOTTOM: 0pt
+}
+#printReceipt {
+	MARGIN-TOP: 3px; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: -15px
+}
+DIV#confirmationMain {
+	MARGIN-TOP: -2px! important; FLOAT: left; PADDING-BOTTOM: 10px; WIDTH: 100%
+}
+DIV#confirmationText {
+	PADDING-LEFT: 0px; FLOAT: left; MARGIN-RIGHT: 3px; PADDING-TOP: 4px
+}
+DIV#confirmationLink {
+	CLEAR: left; PADDING-LEFT: 0px; FLOAT: left
+}
+DIV.exp-date INPUT {
+	WIDTH: 3em; MARGIN-RIGHT: 4px; TEXT-ALIGN: center
+}
+DIV.exp-date INPUT#birth_date_b {
+	MARGIN-LEFT: 4px
+}
+DIV.exp-date INPUT#birth_date_c {
+	MARGIN-LEFT: 4px
+}
+P.text {
+	MARGIN-TOP: 0px! important; PADDING-LEFT: 0px! important
+}
+BODY#review FIELDSET#promodetails DIV.fields {
+	BORDER-RIGHT: #ddd 1px solid; PADDING-RIGHT: 40px; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #ddd 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #ddd 1px solid; BACKGROUND-COLOR: #e6edf5
+}
+FIELDSET#promodetails P {
+	PADDING-LEFT: 0px; FONT-SIZE: 1em; MARGIN: 0.5em 0px
+}
+FIELDSET#promodetails P.first {
+	MARGIN-TOP: 0em
+}
+FIELDSET#promodetails P.last {
+	MARGIN-BOTTOM: 0em
+}
+BODY#review FIELDSET#promodetails {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+SPAN#ssn_a {
+	MARGIN: 0em 1em; TEXT-ALIGN: center
+}
+SPAN#ssn_b {
+	MARGIN: 0em 1.3em; TEXT-ALIGN: center
+}
+SPAN.ssn_separator {
+	MARGIN: 0px 0.25em; TEXT-ALIGN: center
+}
+BODY#billing #promotext {
+	MARGIN-LEFT: 15em
+}
+BODY#billing #promotextCC {
+	MARGIN-LEFT: 15em
+}
+BODY#review SPAN#promotext {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; WIDTH: 38em; PADDING-TOP: 0px
+}
+.fixclear {
+	CLEAR: both
+}
+BODY#review FIELDSET#promodetails SPAN.ssn {
+	MARGIN-TOP: 5px; DISPLAY: block
+}
+.buttonDiv {
+	TEXT-ALIGN: right
+}
+#toolbar {
+	DISPLAY: none
+}
+DIV.value DIV.ebaycard {
+	PADDING-LEFT: 15px; BACKGROUND-POSITION-X: 10px; MARGIN-LEFT: -10px; HEIGHT: 35px
+}
+DIV.ebaycard {
+	PADDING-LEFT: 15px; BACKGROUND-POSITION-X: 10px; MARGIN-LEFT: -10px; HEIGHT: 35px
+}
+DIV.value DIV.pluscard {
+	PADDING-LEFT: 15px; BACKGROUND-POSITION-X: 10px; MARGIN-LEFT: -10px; HEIGHT: 35px
+}
+DIV.pluscard {
+	PADDING-LEFT: 15px; BACKGROUND-POSITION-X: 10px; MARGIN-LEFT: -10px; HEIGHT: 35px
+}
+DIV.value DIV.buyercredit {
+	PADDING-LEFT: 15px; BACKGROUND-POSITION-X: 10px; MARGIN-LEFT: -10px; HEIGHT: 35px
+}
+DIV.buyercredit {
+	PADDING-LEFT: 15px; BACKGROUND-POSITION-X: 10px; MARGIN-LEFT: -10px; HEIGHT: 35px
+}
+FIELDSET#funding-mix DIV.buyerCredit {
+	DISPLAY: inline
+}
+BODY#review DIV.funding-mix FIELDSET#funding-mix DIV.buyerCredit INPUT#currentfunding {
+	MARGIN: 0px 2px 0px 0px
+}
+BODY#review DIV.funding-mix DIV.value#funding-mix-box FIELDSET#funding-mix DIV.funding-item DIV.fieldrow LABEL.buyerCreditLabel {
+	MARGIN: 0px 0px 0px 1.2em
+}
+DIV.transactioncredit LABEL {
+	WIDTH: 29em! important
+}
+.yui-panel .body .processing {
+	MARGIN: 2em 0px 3em; WIDTH: 100%; TEXT-ALIGN: center
+}
+.yui-panel .body .processing H4 {
+	FONT-SIZE: 105%; LETTER-SPACING: 0.07em
+}
+.yui-panel .body .processing P {
+	MARGIN: 2.5em 0px
+}
+.yui-panel .bcterms {
+	BORDER-RIGHT: #666 1px solid; BORDER-TOP: #666 1px solid; MARGIN-BOTTOM: 10px; OVERFLOW: scroll; BORDER-LEFT: #666 1px solid; BORDER-BOTTOM: #666 1px solid; HEIGHT: 150px
+}
+.yui-panel .body FORM {
+	MARGIN: 1em 0px
+}
+.yui-panel .body FORM P {
+	FONT-SIZE: 1em
+}
+.shadow .underlay {
+	LEFT: 0px; HEIGHT: 100%! important
+}
+BODY#billing DIV.given-name {
+	CLEAR: left
+}
+.txt {
+	FONT: 12px arial; COLOR: #333
+}
+.txt LI {
+	LIST-STYLE-POSITION: outside! important
+}
+.pageheader {
+	WIDTH: 480px; POSITION: absolute
+}
+BODY#review .expandRebate {
+	MARGIN-TOP: -20px! important; DISPLAY: block; MIN-HEIGHT: 53px! important; FLOAT: left; WIDTH: 396px; HEIGHT: 53px
+}
+BODY#review DIV.incentive {
+	CLEAR: both; BORDER-RIGHT: #84a3cf 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #84a3cf 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; MARGIN: 0px 0px 0px 11em; BORDER-LEFT: #84a3cf 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #84a3cf 1px solid; BACKGROUND-COLOR: #eaf1f7
+}
+BODY#review DIV.incentive FIELDSET {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 10px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+BODY#billing P.instructions {
+	FONT-SIZE: 1em; FLOAT: none; MARGIN: -5px 0px 25px
+}
+BODY#billing #control {
+	WIDTH: 33%
+}
+BODY#billing .loginOffset {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 17px; PADDING-BOTTOM: 0px; BORDER-LEFT: #bbb 1px solid; PADDING-TOP: 0px
+}
+BODY#billing #control H2 {
+	MARGIN: 0px 0px 1.4em
+}
+BODY#billing #content H2 {
+	MARGIN: 0px 0px 1.4em
+}
+BODY#billing #control H2 {
+	MARGIN-LEFT: 17px
+}
+BODY#billing #control P.instructions {
+	FONT-WEIGHT: bold; MARGIN: 6px 0px 12px
+}
+SPAN.howToEdit {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.75em; BORDER-LEFT-COLOR: #00e; FLOAT: none; BORDER-BOTTOM-COLOR: #00e; COLOR: #00e; BORDER-TOP-COLOR: #00e; TEXT-DECORATION: underline; BORDER-RIGHT-COLOR: #00e
+}
+.giropay-help-link {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 4em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+DIV#listExisting UL.addresses LI INPUT {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#cowpPreviewMessage {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 10px 0px; BORDER-LEFT: #000000 1px solid; WIDTH: auto; PADDING-TOP: 5px; BORDER-BOTTOM: #000000 1px solid
+}
+.label {
+	FONT-WEIGHT: normal! important; VERTICAL-ALIGN: auto! important; TEXT-ALIGN: left! important
+}
+FIELDSET.date-of-birth INPUT {
+	WIDTH: 2em
+}
+FIELDSET.date-of-birth INPUT.dob-year {
+	WIDTH: 3em
+}
+FIELDSET.date-of-birth SPAN.dob-date {
+	FONT-SIZE: 0.7em; MARGIN-LEFT: 0.5em; COLOR: #aaa
+}
+FIELDSET.date-of-birth SPAN.dob-month {
+	FONT-SIZE: 0.7em; MARGIN-LEFT: 0.5em; COLOR: #aaa
+}
+FIELDSET.date-of-birth SPAN.dob-year {
+	FONT-SIZE: 0.7em; MARGIN-LEFT: 0.5em; COLOR: #aaa
+}
+FIELDSET.date-of-birth SPAN.dob-month {
+	MARGIN-LEFT: 1.9em
+}
+FIELDSET.date-of-birth SPAN.dob-year {
+	MARGIN-LEFT: 1.9em
+}
+FIELDSET.date-of-birth {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+FIELDSET.date-of-birth SPAN.dob-why {
+	COLOR: #084482; BORDER-BOTTOM: #084482 1px dotted
+}
+DIV#content FIELDSET.date-of-birth P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV#field-dob DIV.fieldrow SPAN.whyLink {
+	PADDING-BOTTOM: 0.5em; MARGIN: 0.2em 0pt 0pt 0.3em; POSITION: absolute
+}
+#done FIELDSET#create-account DIV.fieldrow FIELDSET.date-of-birth INPUT {
+	WIDTH: 2em
+}
+#done FIELDSET#create-account DIV.fieldrow FIELDSET.date-of-birth INPUT.dob-year {
+	WIDTH: 2.8em
+}
+#done FIELDSET#create-account FIELDSET.date-of-birth {
+	FLOAT: left; MARGIN-RIGHT: 0.3em
+}
+BODY#done .dob {
+	MARGIN: 10px 0px
+}
+DIV#create-account FIELDSET.date-of-birth {
+	CLEAR: left; PADDING-RIGHT: 0pt; DISPLAY: inline; PADDING-LEFT: 0pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt
+}
+DIV#create-account FIELDSET.date-of-birth INPUT {
+	CLEAR: left; WIDTH: 2em
+}
+DIV#create-account FIELDSET.date-of-birth INPUT.dob-year {
+	CLEAR: left; WIDTH: 2.7em
+}
+DIV#create-account DIV.dob LABEL {
+	PADDING-BOTTOM: 0.3em
+}
+DIV#create-account DIV.dob LABEL SPAN {
+	MARGIN-LEFT: 0.5em
+}
+BODY#done #create-account DIV.fieldrow DIV.dobHelptext {
+	FLOAT: left
+}
+BODY#done #create-account DIV.fieldrow DIV.dobHelptext #whydob {
+	CLEAR: both; FLOAT: left
+}
+DIV#main FORM {
+	MARGIN-TOP: 0px! important
+}
+DIV#shopping-cart DIV#purchase-detail P.price-error {
+	PADDING-LEFT: 0px; FONT-SIZE: 12px; MARGIN: 10px 0px 0px; COLOR: #c60000
+}
+TABLE#cart {
+	MARGIN-TOP: 10px; WIDTH: 720px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-ALIGN: right; BORDER-BOTTOM-STYLE: none
+}
+TABLE#cart THEAD TH {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666; TEXT-ALIGN: right
+}
+TABLE#cart TH.unit-price {
+	WIDTH: 90px
+}
+TABLE#cart TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; VERTICAL-ALIGN: top; PADDING-TOP: 5px; BORDER-BOTTOM: #ddd 1px solid
+}
+TABLE#cart TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; VERTICAL-ALIGN: top; PADDING-TOP: 5px; BORDER-BOTTOM: #ddd 1px solid
+}
+BODY#review TABLE#cart TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+BODY#review TABLE#cart TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+TABLE#cart TH.item-total {
+	PADDING-RIGHT: 0px; WHITE-SPACE: nowrap
+}
+TABLE#cart TBODY TD.item-total {
+	PADDING-RIGHT: 0px; WHITE-SPACE: nowrap
+}
+TABLE#cart TD INPUT {
+	BORDER-RIGHT: #83a8cc 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #83a8cc 1px solid; BORDER-LEFT: #83a8cc 1px solid; BORDER-BOTTOM: #83a8cc 1px solid; HEIGHT: 16px; TEXT-ALIGN: right
+}
+TABLE#cart TD INPUT#item_name {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 2px; WIDTH: auto; TEXT-ALIGN: left
+}
+TABLE#cart TD INPUT#amount {
+	MARGIN-LEFT: 4px; WIDTH: 52px
+}
+TABLE#cart TD INPUT.transparentButton {
+	HEIGHT: auto
+}
+TABLE#cart .item-name {
+	WIDTH: 440px; TEXT-ALIGN: left
+}
+TABLE#cart .item-name DIV {
+	OVERFLOW: hidden; WIDTH: 100%
+}
+BODY#review TABLE#cart TD.item-name {
+	PADDING-LEFT: 0px
+}
+TABLE#cart .item-name P.item-option {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #666; PADDING-TOP: 2px; TEXT-ALIGN: left
+}
+TABLE#cart .item-total {
+	PADDING-RIGHT: 5px
+}
+TABLE#cart .item-action {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-SIZE: 11px; TEXT-ALIGN: center
+}
+TABLE#cart TFOOT TD.totals-currency {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 3px; TEXT-ALIGN: left
+}
+TABLE#cart TFOOT TD {
+	VERTICAL-ALIGN: top; PADDING-TOP: 3px
+}
+TABLE#cart TD DL.quick-faq DT .note {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+TABLE#cart TD DL.quick-faq DT A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+TABLE#cart TD#notes {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 1; PADDING-BOTTOM: 0px; WIDTH: 490px; PADDING-TOP: 0.2em; BACKGROUND-COLOR: transparent; TEXT-ALIGN: left
+}
+TABLE#cart TD#notes DIV {
+	POSITION: relative; TEXT-ALIGN: left
+}
+TABLE#cart TD#notes FIELDSET {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 1em 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+TABLE#cart TD#notes DIV.notes-wrapper {
+	POSITION: absolute! important; TEXT-ALIGN: left
+}
+TABLE#cart TD#notes DIV.notes-wrapper DIV.notes-all {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 2px; PADDING-BOTTOM: 0px; WIDTH: 490px; PADDING-TOP: 0px; POSITION: relative
+}
+TABLE#cart TD#notes DIV.notes-wrapper DIV.sNotesWrapper {
+	MARGIN-TOP: 265px
+}
+TABLE#cart TD#notes DIV.notes-wrapper DIV.sNotesWrapperNoScript {
+	MARGIN-TOP: 300px
+}
+TABLE#cart TD#notes DIV.notes-wrapper DIV#giftNotesWrapper SPAN.show {
+	DISPLAY: inline! important
+}
+TABLE#cart TD#notes DIV A#seller-notes-toggle {
+	PADDING-LEFT: 14px; FONT-SIZE: 11px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/merchantpaymentweb-600-19700101-01/en_US/i/icon/icon_add_instructions_11x11.gif) no-repeat left center
+}
+TABLE#cart TD#notes DIV A.opened#seller-notes-toggle {
+	PADDING-LEFT: 0px; FONT-WEIGHT: bold; BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: default; COLOR: #000; TEXT-DECORATION: none
+}
+TABLE#cart TD#notes DIV TEXTAREA#seller-notes {
+	BORDER-RIGHT: #83a8cc 1px solid; BORDER-TOP: #83a8cc 1px solid; MARGIN-TOP: 3px; DISPLAY: block; LEFT: 14px; BORDER-LEFT: #83a8cc 1px solid; WIDTH: 300px; BORDER-BOTTOM: #83a8cc 1px solid; POSITION: absolute; TOP: 14px; HEIGHT: 50px
+}
+TABLE#cart TFOOT TD {
+	PADDING-RIGHT: 0px; MARGIN-RIGHT: 0px! important
+}
+TABLE#cart TD#notes TD {
+	PADDING-RIGHT: 17px! important; PADDING-TOP: 0px; BORDER-BOTTOM-STYLE: none
+}
+TABLE#cart TD#notes TD.totals-value {
+	PADDING-RIGHT: 10px! important
+}
+TABLE#cart TD#notes TD.totals-action {
+	PADDING-RIGHT: 12px! important
+}
+TABLE#cart #exp_total {
+	FONT-WEIGHT: bold
+}
+TABLE#cart #exp_total TD {
+	PADDING-TOP: 15px
+}
+TABLE#cart #exp_subtotal TD {
+	PADDING-TOP: 15px
+}
+TABLE#cart TD#notes DIV A.opened#sellerNotesToggleNew {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: default; COLOR: #084482; TEXT-DECORATION: none
+}
+TABLE#cart TD#notes DIV A#sellerNotesToggleNew {
+	COLOR: #084482; TEXT-DECORATION: underline
+}
+SPAN.opened#addInstructions {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: default; COLOR: #084482; TEXT-DECORATION: none
+}
+SPAN.opened#changeInstructions {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: default; COLOR: #084482; TEXT-DECORATION: none
+}
+.addInstructions {
+	WIDTH: auto; CURSOR: pointer; COLOR: #084482; TEXT-DECORATION: underline
+}
+.sNotesWrapper {
+	MARGIN-TOP: 250px; POSITION: absolute! important
+}
+TABLE#cart TD#notes DIV.bluebox#sellerNotesCont {
+	BORDER-RIGHT: #83a8cc 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #83a8cc 1px solid; MARGIN-TOP: 3px; PADDING-LEFT: 10px; Z-INDEX: 1; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_hashedbg_4x4.gif) center 50%; LEFT: 1px; PADDING-BOTTOM: 10px; BORDER-LEFT: #83a8cc 1px solid; WIDTH: 280px; PADDING-TOP: 10px; BORDER-BOTTOM: #83a8cc 1px solid; POSITION: absolute; TOP: 14px
+}
+TABLE#cart TD#notes DIV#sellerNotesCont {
+	MARGIN-TOP: 3px; Z-INDEX: 1; LEFT: 1px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; POSITION: absolute; TOP: 14px; BORDER-BOTTOM-STYLE: none
+}
+TABLE#cart TD#notes DIV SPAN#sellerNotesShown {
+	MARGIN-TOP: 0.8em; LEFT: 0px; FLOAT: left; POSITION: absolute
+}
+TABLE#cart TD#notes DIV TEXTAREA#sellerNotesNew {
+	BORDER-RIGHT: #83a8cc 1px solid; BORDER-TOP: #83a8cc 1px solid; MARGIN-TOP: 0px; DISPLAY: block; LEFT: 14px; BORDER-LEFT: #83a8cc 1px solid; WIDTH: 270px; BORDER-BOTTOM: #83a8cc 1px solid; TOP: 14px; HEIGHT: 80px
+}
+TABLE#cart TD#notes P#noteButtons {
+	DISPLAY: none; PADDING-TOP: 10px
+}
+TABLE#cart TD#notes DIV A.opened#giftOptionsToggle {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: default; COLOR: #084482; TEXT-DECORATION: none
+}
+TABLE#cart TD#notes DIV A#giftOptionsToggle {
+	COLOR: #084482; TEXT-DECORATION: none
+}
+SPAN.opened#addGiftOptions {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: default; COLOR: #084482; TEXT-DECORATION: none
+}
+SPAN.opened#changeGiftOptions {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: default; COLOR: #084482; TEXT-DECORATION: none
+}
+.addGiftOptions {
+	WIDTH: auto; CURSOR: pointer; COLOR: #084482; TEXT-DECORATION: underline
+}
+TABLE#cart TD#notes DIV#giftNotesCount {
+	MARGIN-TOP: 3px; Z-INDEX: 1; LEFT: 1px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; POSITION: absolute; TOP: 14px; BORDER-BOTTOM-STYLE: none
+}
+TABLE#cart TD#notes DIV.bluebox#giftNotesCount {
+	BORDER-RIGHT: #83a8cc 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #83a8cc 1px solid; MARGIN-TOP: 3px; PADDING-LEFT: 10px; Z-INDEX: 1; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_hashedbg_4x4.gif) center 50%; LEFT: 1px; PADDING-BOTTOM: 10px; BORDER-LEFT: #83a8cc 1px solid; WIDTH: 280px; PADDING-TOP: 10px; BORDER-BOTTOM: #83a8cc 1px solid; POSITION: absolute; TOP: 14px
+}
+TABLE#cart TD#notes DIV TEXTAREA#inputGiftMessage {
+	BORDER-RIGHT: #83a8cc 1px solid; BORDER-TOP: #83a8cc 1px solid; MARGIN-TOP: 0px; DISPLAY: block; LEFT: 14px; BORDER-LEFT: #83a8cc 1px solid; WIDTH: 270px; BORDER-BOTTOM: #83a8cc 1px solid; TOP: 14px; HEIGHT: 80px
+}
+TABLE#cart TD#notes P#giftNoteButtons {
+	PADDING-TOP: 10px
+}
+TABLE#cart TD#notes DIV P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; MARGIN: 3px 0px 0px; PADDING-TOP: 3px
+}
+TABLE#cart TD#notes DIV P#giftNotesTxt {
+	MARGIN: 5px 0px
+}
+TABLE#cart TD#notes DIV P#giftReceipt {
+	MARGIN-TOP: 5px
+}
+.giftOptionsAvailable {
+	PADDING-BOTTOM: 400px
+}
+.order-summary-default-margin {
+	MARGIN-BOTTOM: 0px
+}
+.addinstr-shipping {
+	MARGIN-BOTTOM: 136px
+}
+.addinstr-shipping-salestax {
+	MARGIN-BOTTOM: 116px
+}
+.addinstr-shipping-insuranceamt {
+	MARGIN-BOTTOM: 116px
+}
+.addinstr-shipping-insuranceamt-offerinsurance {
+	MARGIN-BOTTOM: 96px
+}
+.addinstr-shipping-salestax-insuranceamt {
+	MARGIN-BOTTOM: 96px
+}
+.addinstr-shipping-salestax-insuranceamt-offerinsurance {
+	MARGIN-BOTTOM: 76px
+}
+.addinstr-none {
+	MARGIN-BOTTOM: 176px
+}
+.addinstr-shippingamt {
+	MARGIN-BOTTOM: 156px
+}
+.addinstr-shippingamt-salestaxamt {
+	MARGIN-BOTTOM: 136px
+}
+.addinstr-shippingamt-insuranceamt {
+	MARGIN-BOTTOM: 136px
+}
+.addinstr-shippingamt-salestaxamt-insuranceamt {
+	MARGIN-BOTTOM: 126px
+}
+.addinstr-giftoption-shipping {
+	MARGIN-BOTTOM: 166px
+}
+.addinstr-giftoption-shipping-salestax {
+	MARGIN-BOTTOM: 146px
+}
+.addinstr-giftoption-shipping-insuranceamt {
+	MARGIN-BOTTOM: 146px
+}
+.addinstr-giftoption-shipping-insuranceamt-offerinsurance {
+	MARGIN-BOTTOM: 126px
+}
+.addinstr-giftoption-shipping-salestax-insuranceamt {
+	MARGIN-BOTTOM: 126px
+}
+.addinstr-giftoption-shipping-salestax-insuranceamt-offerinsurance {
+	MARGIN-BOTTOM: 106px
+}
+.addinstr-giftoption-none {
+	MARGIN-BOTTOM: 206px
+}
+.addinstr-giftoption-shippingamt {
+	MARGIN-BOTTOM: 186px
+}
+.addinstr-giftoption-shippingamt-salestaxamt {
+	MARGIN-BOTTOM: 166px
+}
+.addinstr-giftoption-shippingamt-insuranceamt {
+	MARGIN-BOTTOM: 166px
+}
+.addinstr-giftoption-shippingamt-salestaxamt-insuranceamt {
+	MARGIN-BOTTOM: 156px
+}
+.giftopt-shipping {
+	MARGIN-BOTTOM: 216px
+}
+.giftopt-shipping-salestax {
+	MARGIN-BOTTOM: 196px
+}
+.giftopt-shipping-insuranceamt {
+	MARGIN-BOTTOM: 196px
+}
+.giftopt-shipping-insuranceamt-offerinsurance {
+	MARGIN-BOTTOM: 176px
+}
+.giftopt-shipping-salestax-insuranceamt {
+	MARGIN-BOTTOM: 176px
+}
+.giftopt-shipping-salestax-insuranceamt-offerinsurance {
+	MARGIN-BOTTOM: 156px
+}
+.giftopt-none {
+	MARGIN-BOTTOM: 246px
+}
+.giftopt-shippingamt {
+	MARGIN-BOTTOM: 236px
+}
+.giftopt-shippingamt-salestaxamt {
+	MARGIN-BOTTOM: 216px
+}
+.giftopt-shippingamt-insuranceamt {
+	MARGIN-BOTTOM: 216px
+}
+.giftopt-shippingamt-salestaxamt-insuranceamt {
+	MARGIN-BOTTOM: 206px
+}
+TABLE#cart TR#exp_shipping-and-handling P {
+	PADDING-LEFT: 0px
+}
+TABLE#cart TD#notes DIV INPUT {
+	BORDER-RIGHT: #908d8d 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #bfbfbf 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 1.1em; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_default.gif) #e1e1e1 repeat-x left center; PADDING-BOTTOM: 1px; BORDER-LEFT: #bfbfbf 1px solid; WIDTH: auto! important; CURSOR: hand; COLOR: #000000; MARGIN-RIGHT: 10px; PADDING-TOP: 1px; BORDER-BOTTOM: #908d8d 1px solid; FONT-FAMILY: Arial,Helvetica,sans-serif; HEIGHT: 20px; TEXT-ALIGN: center
+}
+UNKNOWN {
+	HEIGHT: auto
+}
+TABLE#cart TD DIV SPAN#detailsLinkShown {
+	PADDING-LEFT: 7em; LINE-HEIGHT: 1.5
+}
+TABLE#cart TD DIV SPAN.truncatedDescShown {
+	FLOAT: left; WIDTH: 300px; MARGIN-RIGHT: 5px
+}
+TABLE#cart TD DIV.truncatedDescriptionHide {
+	DISPLAY: none
+}
+DIV.information-to-merchant SPAN.label {
+	WIDTH: 17.75em
+}
+TABLE#cart TR.alertRow TD {
+	BACKGROUND-COLOR: #fec
+}
+TABLE#cart TR.alertRow2 TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; COLOR: #c60000; PADDING-TOP: 0px; BACKGROUND-COLOR: #fec; TEXT-ALIGN: left; BORDER-BOTTOM-STYLE: none
+}
+TABLE#cart TR.alertRow3 TD {
+	PADDING-TOP: 2px; BACKGROUND-COLOR: #fec
+}
+TABLE#cart TR.alertRow3 TD INPUT {
+	MARGIN-LEFT: 35px
+}
+TABLE#cart .soldOutText {
+	COLOR: #c60000
+}
+.systemAlertIcon {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/icon/icon_systemalertcolor_16wx16h.gif) no-repeat 0px 0px
+}
+.systemAlertIcon2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 30px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/icon/icon_systemalertcolor_16wx16h.gif) no-repeat 0px 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 1px
+}
+.errorTextAndImage {
+	PADDING-LEFT: 20px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/icon/icon_errorarrow_15wx15h.gif) no-repeat 0px 0px; MARGIN-LEFT: 42px
+}
+.staticToggleBar {
+	MARGIN-TOP: 10px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_idetails_review_bottom_1x10.gif) repeat-x; HEIGHT: 10px
+}
+.ie6Fix {
+	MARGIN: 0px
+}
+DIV.collapsed DIV.toggle {
+	BOTTOM: -15px
+}
+DIV.collapsed DIV.toggle A {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_idetails_billing_closed_760_16.gif) no-repeat 0px 0px; BOTTOM: 0px
+}
+DIV.collapsed DIV.toggle A:hover {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_idetails_billing_closed_hi_760x16.gif) no-repeat 0px 0px
+}
+DIV.collapsed DIV#purchase-summary {
+	DISPLAY: block; VISIBILITY: visible; MARGIN-BOTTOM: 0px
+}
+DIV.collapsed DIV#cover {
+	OVERFLOW: hidden; HEIGHT: 0px
+}
+DIV#shopping-cart {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; MARGIN: 0px; WIDTH: 760px; PADDING-TOP: 0px; POSITION: relative; TOP: -24px
+}
+DIV#cowp-wrapper DIV.cowp-setting#shopping-cart {
+	TOP: -11px; HEIGHT: 1%
+}
+DIV#purchase-detail {
+	BORDER-RIGHT: #83a8cc 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #83a8cc 1px solid; PADDING-LEFT: 0px; Z-INDEX: 100; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_idetails_bg_1x350.gif) #fff repeat-x left bottom; PADDING-BOTTOM: 0px! important; MARGIN: 0px; BORDER-LEFT: #83a8cc 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #83a8cc 0px solid; POSITION: relative; TOP: 0px; HEIGHT: 1%
+}
+DIV#purchase-summary {
+	DISPLAY: none; FONT-WEIGHT: normal; VISIBILITY: hidden; MARGIN: 0px 8px; HEIGHT: 100%
+}
+DIV#purchase-summary P {
+	FONT-WEIGHT: bold; FLOAT: left; MARGIN: 0px
+}
+DIV#purchase-summary P.summary-total {
+	FLOAT: right; WIDTH: auto; TEXT-ALIGN: right
+}
+DIV#purchase-summary SPAN {
+	PADDING-RIGHT: 10px; FONT-WEIGHT: bold
+}
+DIV#purchase-summary SPAN.price-total {
+	PADDING-LEFT: 10px
+}
+DIV#purchase-summary SPAN.price-currency {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold
+}
+DIV#payment-for {
+	BORDER-RIGHT: #83a8cc 1px solid; BORDER-TOP: #83a8cc 1px solid; Z-INDEX: 100; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_idetails_bg_1x350.gif) #fff repeat-x left bottom; MARGIN: 0px; BORDER-LEFT: #83a8cc 1px solid; POSITION: relative; TOP: 0px
+}
+DIV.toggle {
+	CLEAR: both; WIDTH: 100%
+}
+DIV.toggle A {
+	DISPLAY: block; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_idetails_billing_opened_760x16.gif) no-repeat left top; CURSOR: pointer; TEXT-INDENT: -12345px; HEIGHT: 15px; outline: none
+}
+DIV.toggle A:hover {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/scr/scr_idetails_billing_opened_hi_760x16.gif) no-repeat left top
+}
+DIV#cover {
+	HEIGHT: 110%
+}
+DIV#purchase-detail TABLE#cart {
+	WIDTH: 100%
+}
+TABLE#cart DIV.buttonrow {
+	MARGIN-TOP: 0px; WIDTH: auto; PADDING-TOP: 0px
+}
+TABLE#cart DIV.buttonrow INPUT.done {
+	PADDING-RIGHT: 10px! important; PADDING-LEFT: 10px! important; PADDING-BOTTOM: 2px! important; MARGIN: 6px 6px 0px 0px; PADDING-TOP: 2px! important; HEIGHT: auto; TEXT-ALIGN: center
+}
+TABLE#cart DIV.buttonrow INPUT.cancel {
+	PADDING-RIGHT: 10px! important; PADDING-LEFT: 10px! important; PADDING-BOTTOM: 2px! important; MARGIN: 6px 6px 0px 0px; PADDING-TOP: 2px! important; HEIGHT: auto; TEXT-ALIGN: center
+}
+BODY#review DIV#cover TABLE#cart {
+	MARGIN-TOP: 0px; WIDTH: 760px
+}
+BODY#review DIV#order-summary {
+	CLEAR: left; PADDING-BOTTOM: 20px; MARGIN: 17px 0px 5px
+}
+BODY#review DIV.sansButton#order-summary {
+	PADDING-BOTTOM: 60px; BORDER-BOTTOM: #ddd 1px solid
+}
+BODY#review DIV#order-summary DIV#purchase-summary {
+	DISPLAY: none
+}
+BODY#review DIV#order-summary DIV.toggle {
+	DISPLAY: none
+}
+BODY#review DIV#shopping-cart DIV#purchase-summary {
+	DISPLAY: block; VISIBILITY: visible; MARGIN-BOTTOM: 20px
+}
+BODY#review DIV#shopping-cart DIV.toggle A#expander {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+DIV#gift-certificate {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 12px arial; WIDTH: auto; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-ALIGN: right; BORDER-BOTTOM-STYLE: none
+}
+DIV#gift-certificate DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: auto; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-ALIGN: right; BORDER-BOTTOM-STYLE: none
+}
+DIV#gift-certificate DIV.edit {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TOP: 0px; BORDER-BOTTOM-STYLE: none
+}
+DIV#gift-certificate DIV.open {
+	DISPLAY: block
+}
+DIV#gift-certificate INPUT.transparentButton {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV#gift-certificate FIELDSET#insert-gift-certificate {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV#gift-certificate DIV SPAN.gc-entry-label {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN: 0px 5px 0px 0px
+}
+DIV#gift-certificate DIV A {
+	FONT-SIZE: 11px; MARGIN: 0px 0px 0px 5px
+}
+DIV#gift-certificate DIV SPAN.gc-amount {
+	MARGIN: 0px 0px 0px 24px
+}
+DIV#gift-certificate LABEL {
+	DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 11px
+}
+DIV#gift-certificate DIV#payment-method {
+	MARGIN-BOTTOM: 10px
+}
+DIV#gift-certificate DIV#payment-method A {
+	FONT-SIZE: 11px
+}
+DIV#gift-certificate FIELDSET SPAN.note {
+	MARGIN: 0px 0px 0px 10px
+}
+DIV#gift-certificate DIV.payment-method DIV.edit FIELDSET#insert-gift-certificate DIV.gift-certificate INPUT#gift-certificate-input {
+	WIDTH: 120px! important; TEXT-ALIGN: left
+}
+DIV#gift-certificate DIV.edit DIV.gift-certificate LABEL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: none; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: auto; PADDING-TOP: 0px
+}
+DIV#gift-certificate DIV.buttonrow INPUT {
+	MARGIN-TOP: 7px! important; FLOAT: right; MARGIN-BOTTOM: 8px; WIDTH: auto; MARGIN-RIGHT: 0px; HEIGHT: 22px
+}
+DIV#gift-certificate DIV.buttonrow INPUT.done {
+	MARGIN-RIGHT: 5px
+}
+DIV#gift-certificate DIV.fieldrow INPUT#gift-certificate-input {
+	MARGIN: 0px 0px 0px 5px
+}
+.clearBoth {
+	CLEAR: both
+}
+DIV#col_inside-us {
+	DISPLAY: none; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+DIV#col_outside-us {
+	DISPLAY: none; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+DIV#exp_inside-us {
+	DISPLAY: none; FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-LEFT: 0px; WIDTH: 446px
+}
+DIV#exp_outside-us {
+	DISPLAY: none; FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-LEFT: 0px; WIDTH: 638px
+}
+.qtyone-calculate-shipping {
+	WIDTH: 100%
+}
+.qtymore-calculate-shipping {
+	WIDTH: 100%
+}
+DIV#col_calculate-shipping SPAN {
+	PADDING-RIGHT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+DIV#col_inside-us SPAN {
+	PADDING-RIGHT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+DIV#col_outside-us SPAN {
+	PADDING-RIGHT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+DIV#col_calculate-shipping-nj SPAN {
+	PADDING-RIGHT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+DIV#col_inside-us-nj SPAN {
+	PADDING-RIGHT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+DIV#col_outside-us-nj SPAN {
+	PADDING-RIGHT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+DIV#exp_calculate-shipping SPAN {
+	PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+DIV#exp_inside-us SPAN {
+	PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+DIV#exp_outside-us SPAN {
+	PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+UNKNOWN {
+	FLOAT: left
+}
+UNKNOWN {
+	PADDING-TOP: 10px
+}
+UNKNOWN {
+	PADDING-TOP: 10px
+}
+DIV#exp_calculate-shipping-nj SPAN {
+	PADDING-RIGHT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+DIV#exp_inside-us-nj SPAN {
+	PADDING-RIGHT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+DIV#exp_outside-us-nj SPAN {
+	PADDING-RIGHT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+A#col_calculate-total-link {
+	DISPLAY: none
+}
+A#col_outside-us-link {
+	DISPLAY: none
+}
+A#col_inside-us-link {
+	DISPLAY: none
+}
+A#exp_calculate-total-link {
+	DISPLAY: none
+}
+A#exp_outside-us-link {
+	DISPLAY: none
+}
+A#exp_inside-us-link {
+	DISPLAY: none
+}
+A#exp_zip-change-link {
+	DISPLAY: none
+}
+SPAN.change-link-wrapper {
+	DISPLAY: none
+}
+DIV#shipping-handling SPAN.label {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-ALIGN: right
+}
+DIV#shipping-handling SPAN.value {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-LEFT: 10px; POSITION: absolute
+}
+SPAN.button INPUT.done {
+	BORDER-RIGHT: #85a7ca 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #85a7ca 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/btn/btn_secondary_1x50.gif) #afc8f1 repeat-x left top; PADDING-BOTTOM: 0px; BORDER-LEFT: #85a7ca 1px solid; WIDTH: 55px; PADDING-TOP: 2px; BORDER-BOTTOM: #85a7ca 1px solid
+}
+#exp_inside-us .button .done {
+	PADDING-RIGHT: 8px! important; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 20px
+}
+#exp_outside-us .button .done {
+	PADDING-RIGHT: 8px! important; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 20px
+}
+DIV.shippinginfo#exp-shipping-info {
+	WIDTH: 100%; TEXT-ALIGN: right
+}
+DIV#totals TABLE TD {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; TEXT-ALIGN: right
+}
+TR#exp_shipping-and-handling SELECT {
+	WIDTH: auto
+}
+.notesWidth {
+	WIDTH: 205px! important
+}
+.summary-total-normal {
+	FONT: 11px arial
+}
+.sub-total {
+	PADDING-RIGHT: 39px! important; PADDING-LEFT: 10px
+}
+.tax-value {
+	PADDING-LEFT: 22px! important; TEXT-ALIGN: left! important
+}
+.shipping-qty-more {
+	PADDING-LEFT: 16px! important; WIDTH: 40px! important; TEXT-ALIGN: left! important
+}
+.shipping-qty-one {
+	PADDING-LEFT: 16px! important; WIDTH: 15px! important; TEXT-ALIGN: right! important
+}
+.total-text {
+	FONT-WEIGHT: bold! important; FONT-SIZE: 13px! important
+}
+.total-text-cart {
+	PADDING-RIGHT: 0px! important; FONT-WEIGHT: bold! important; FONT-SIZE: 12px! important
+}
+.total-value {
+	PADDING-LEFT: 9px; FONT-WEIGHT: bold! important; FONT-SIZE: 13px! important; TEXT-ALIGN: left! important
+}
+.total-value-cart {
+	PADDING-RIGHT: 5px! important; PADDING-LEFT: 0px! important; FONT-WEIGHT: bold! important; FONT-SIZE: 12px! important; TEXT-ALIGN: right! important
+}
+.cart-shipping {
+	PADDING-LEFT: 22px! important; WIDTH: 70px! important; TEXT-ALIGN: left! important
+}
+DIV#donation-total {
+	FLOAT: right
+}
+DIV#purchase-summary DIV#purchase-many {
+	FLOAT: left; WIDTH: auto
+}
+DIV#purchase-summary DIV P#multi-item {
+	WIDTH: 75px; TEXT-ALIGN: right
+}
+DIV#purchase-summary P SPAN#purchase-mulitiple-items {
+	PADDING-LEFT: 15px
+}
+.total-text-multi-item {
+	PADDING-LEFT: 0px! important; FONT-WEIGHT: bold! important; FONT-SIZE: 12px! important; WIDTH: 114px
+}
+.total-text-item {
+	PADDING-LEFT: 0px! important; FONT-WEIGHT: bold! important; FONT-SIZE: 12px! important; WIDTH: 122px
+}
+.total-value-multi-item {
+	PADDING-LEFT: 21px; FONT-WEIGHT: bold! important; FONT-SIZE: 12px! important; WIDTH: 75px
+}
+.total-value-item {
+	PADDING-RIGHT: 5px! important; PADDING-LEFT: 0px! important; FONT-WEIGHT: bold! important; FONT-SIZE: 12px! important; WIDTH: 81px; TEXT-ALIGN: right! important
+}
+.error {
+	COLOR: #f00! important
+}
+.purchase-items {
+	WIDTH: 480px
+}
+#titleExpanded {
+	DISPLAY: none
+}
+DIV.incentiveMsgLogin {
+	CLEAR: both; PADDING-RIGHT: 40px; MARGIN-TOP: -40px; FLOAT: right; WIDTH: 40%
+}
+DIV.incentiveMsgBilling {
+	MARGIN-TOP: 10px; FLOAT: right; WIDTH: 36%
+}
+DIV.incentiveMsgBilling DIV {
+	MARGIN: 5px 0px 0px 20px
+}
+DIV.fieldrow DIV.incentiveMsgReview {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 4em; FLOAT: left; PADDING-BOTTOM: 5px; WIDTH: 400px; PADDING-TOP: 5px
+}
+BODY#review DIV.incentiveMsgReview FIELDSET.noborder {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.incentiveMsgSignup {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 10px; PADDING-LEFT: 15em; PADDING-BOTTOM: 0px; WIDTH: 300px; PADDING-TOP: 0px
+}
+#wax_merchant_return P.back {
+	FONT-SIZE: 1em
+}
+#notificationLightBox .continuebpc {
+	BORDER-RIGHT: #935e0d 1px solid; BORDER-TOP: #d5bd98 1px solid; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_submit.gif) #ffa822 repeat-x left center; BORDER-LEFT: #d5bd98 1px solid; BORDER-BOTTOM: #935e0d 1px solid
+}
+#notificationLightBox .body {
+	MARGIN-BOTTOM: 0px
+}
+#notificationLightBox .body P.bpcpara {
+	MARGIN-TOP: 0px
+}
+#notificationLightBox .body P {
+	PADDING-LEFT: 0px; FONT-SIZE: 1em
+}
+#notificationLightBox .footer {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#notificationLightBox OL {
+	PADDING-RIGHT: 28pt; PADDING-LEFT: 28pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt; LIST-STYLE-TYPE: disc
+}
+#notificationLightBox UL {
+	PADDING-RIGHT: 28pt; PADDING-LEFT: 28pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt; LIST-STYLE-TYPE: disc
+}
+#notificationLightBox LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; MARGIN: 0pt; PADDING-TOP: 0px
+}
+#notificationLightBox DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; MARGIN: 0pt; PADDING-TOP: 0px
+}
+DIV.buttonrow INPUT {
+	BORDER-RIGHT: #908d8d 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #bfbfbf 1px solid; PADDING-LEFT: 0.5em; FONT-WEIGHT: normal; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_default.gif) #e1e1e1 repeat-x left center; PADDING-BOTTOM: 1px; BORDER-LEFT: #bfbfbf 1px solid; WIDTH: auto! important; COLOR: #000; MARGIN-RIGHT: 10px; PADDING-TOP: 1px; BORDER-BOTTOM: #908d8d 1px solid
+}
+DIV.buttonRow INPUT {
+	BORDER-RIGHT: #908d8d 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #bfbfbf 1px solid; PADDING-LEFT: 0.5em; FONT-WEIGHT: normal; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_default.gif) #e1e1e1 repeat-x left center; PADDING-BOTTOM: 1px; BORDER-LEFT: #bfbfbf 1px solid; WIDTH: auto! important; COLOR: #000; MARGIN-RIGHT: 10px; PADDING-TOP: 1px; BORDER-BOTTOM: #908d8d 1px solid
+}
+DIV.buttonrow INPUT.done {
+	BORDER-RIGHT: #908d8d 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #bfbfbf 1px solid; PADDING-LEFT: 0.5em; FONT-WEIGHT: normal; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_default.gif) #e1e1e1 repeat-x left center; PADDING-BOTTOM: 1px; BORDER-LEFT: #bfbfbf 1px solid; WIDTH: auto! important; COLOR: #000; MARGIN-RIGHT: 10px; PADDING-TOP: 1px; BORDER-BOTTOM: #908d8d 1px solid
+}
+DIV.buttonrow INPUT.cancel {
+	BORDER-RIGHT: #908d8d 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #bfbfbf 1px solid; PADDING-LEFT: 0.5em; FONT-WEIGHT: normal; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_default.gif) #e1e1e1 repeat-x left center; PADDING-BOTTOM: 1px; BORDER-LEFT: #bfbfbf 1px solid; WIDTH: auto! important; COLOR: #000; MARGIN-RIGHT: 10px; PADDING-TOP: 1px; BORDER-BOTTOM: #908d8d 1px solid
+}
+TABLE#cart INPUT.done {
+	BORDER-RIGHT: #908d8d 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #bfbfbf 1px solid; PADDING-LEFT: 0.5em; FONT-WEIGHT: normal; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_default.gif) #e1e1e1 repeat-x left center; PADDING-BOTTOM: 1px; BORDER-LEFT: #bfbfbf 1px solid; WIDTH: auto! important; COLOR: #000; MARGIN-RIGHT: 10px; PADDING-TOP: 1px; BORDER-BOTTOM: #908d8d 1px solid
+}
+TABLE#col_shipping-table .button .done {
+	BORDER-RIGHT: #908d8d 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #bfbfbf 1px solid; PADDING-LEFT: 0.5em; FONT-WEIGHT: normal; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_default.gif) #e1e1e1 repeat-x left center; PADDING-BOTTOM: 1px; BORDER-LEFT: #bfbfbf 1px solid; WIDTH: auto! important; COLOR: #000; MARGIN-RIGHT: 10px; PADDING-TOP: 1px; BORDER-BOTTOM: #908d8d 1px solid
+}
+TABLE#cart DIV.buttonrow INPUT.cancel {
+	BORDER-RIGHT: #908d8d 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #bfbfbf 1px solid; PADDING-LEFT: 0.5em; FONT-WEIGHT: normal; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_default.gif) #e1e1e1 repeat-x left center; PADDING-BOTTOM: 1px; BORDER-LEFT: #bfbfbf 1px solid; WIDTH: auto! important; COLOR: #000; MARGIN-RIGHT: 10px; PADDING-TOP: 1px; BORDER-BOTTOM: #908d8d 1px solid
+}
+DIV.buttonrow INPUT.continue {
+	BORDER-RIGHT: #935e0d 1px solid; BORDER-TOP: #d5bd98 1px solid; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_submit.gif) #ffa822 repeat-x left center; BORDER-LEFT: #d5bd98 1px solid; BORDER-BOTTOM: #935e0d 1px solid
+}
+DIV.buttonrow INPUT.done {
+	BORDER-RIGHT: #935e0d 1px solid; BORDER-TOP: #d5bd98 1px solid; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_submit.gif) #ffa822 repeat-x left center; BORDER-LEFT: #d5bd98 1px solid; BORDER-BOTTOM: #935e0d 1px solid
+}
+BODY#login DIV#control DIV.login DIV.buttonRow INPUT {
+	BORDER-RIGHT: #935e0d 1px solid; BORDER-TOP: #d5bd98 1px solid; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_submit.gif) #ffa822 repeat-x left center; BORDER-LEFT: #d5bd98 1px solid; BORDER-BOTTOM: #935e0d 1px solid
+}
+BODY#billing DIV#control DIV.login DIV.buttonRow INPUT {
+	BORDER-RIGHT: #935e0d 1px solid; BORDER-TOP: #d5bd98 1px solid; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_submit.gif) #ffa822 repeat-x left center; BORDER-LEFT: #d5bd98 1px solid; BORDER-BOTTOM: #935e0d 1px solid
+}
+BODY#billing DIV#content DIV.buttonrow INPUT {
+	BORDER-RIGHT: #935e0d 1px solid; BORDER-TOP: #d5bd98 1px solid; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_submit.gif) #ffa822 repeat-x left center; BORDER-LEFT: #d5bd98 1px solid; BORDER-BOTTOM: #935e0d 1px solid
+}
+BODY#loginChallenge DIV.login-button INPUT {
+	BORDER-RIGHT: #935e0d 1px solid; BORDER-TOP: #d5bd98 1px solid; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_submit.gif) #ffa822 repeat-x left center; BORDER-LEFT: #d5bd98 1px solid; BORDER-BOTTOM: #935e0d 1px solid
+}
+DIV#afterform DIV.buttonrow INPUT {
+	BORDER-RIGHT: #935e0d 1px solid; BORDER-TOP: #d5bd98 1px solid; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/pui/core/btn_bg_submit.gif) #ffa822 repeat-x left center; BORDER-LEFT: #d5bd98 1px solid; BORDER-BOTTOM: #935e0d 1px solid
+}
+DIV.buttonrow INPUT.disabled {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BACKGROUND: #eee; BORDER-LEFT: #ccc 1px solid; COLOR: #b3b3b3; BORDER-BOTTOM: #ccc 1px solid
+}
+DIV.buttonRow INPUT.disabled {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BACKGROUND: #eee; BORDER-LEFT: #ccc 1px solid; COLOR: #b3b3b3; BORDER-BOTTOM: #ccc 1px solid
+}
+DIV#afterform {
+	CLEAR: both; PADDING-TOP: 1em
+}
+#cart TD.discount-name {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 15px; PADDING-TOP: 8px; TEXT-ALIGN: left
+}
+#cart TD.discount-amt {
+	PADDING-RIGHT: 0px
+}
+BODY#review FIELDSET#funding-mix DIV.uach {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 46px; WIDTH: 480px; PADDING-TOP: 0px
+}
+BODY#review FIELDSET#funding-mix DIV.uach P {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY#review FIELDSET#funding-mix DIV.uach .uachfunding {
+	MARGIN-TOP: 0px; HEIGHT: 20px
+}
+BODY#review FIELDSET#funding-mix .uachcc {
+	CLEAR: both; FLOAT: left; WIDTH: auto! important
+}
+BODY#review FIELDSET#funding-mix DIV.uach LABEL {
+	CLEAR: both; FLOAT: left; WIDTH: auto! important
+}
+BODY#review FIELDSET#funding-mix DIV.uach .amount {
+	MARGIN-LEFT: -6px; TEXT-ALIGN: left
+}
+BODY#review FIELDSET#funding-mix DIV.uachForced .value {
+	WIDTH: 7em
+}
+BODY#review FIELDSET#funding-mix DIV.uach .value {
+	WIDTH: 7em
+}
+BODY#review FIELDSET#funding-mix DIV.uach INPUT.yodlee {
+	MARGIN-LEFT: 0px
+}
+BODY#review FIELDSET#funding-mix DIV.uach .addbanknow {
+	PADDING-LEFT: 20px; PADDING-TOP: 10px; HEIGHT: 20px
+}
+BODY#review FIELDSET#funding-mix DIV.uach .addbanknow A {
+	PADDING-LEFT: 10px
+}
+BODY#review FIELDSET#funding-mix DIV.uach .addbanknow INPUT {
+	VERTICAL-ALIGN: text-top; WIDTH: auto; BORDER-TOP-STYLE: none; MARGIN-RIGHT: 10px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+BODY#review FIELDSET#funding-mix DIV.uach .terms {
+	PADDING-LEFT: 275px
+}
+BODY#review FIELDSET#funding-mix DIV.uach .uachflexibility {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; WIDTH: 250px; PADDING-TOP: 10px; HEIGHT: 54px; BACKGROUND-COLOR: #f4f7f9
+}
+BODY#review FIELDSET#funding-mix DIV.uach .uachflexibility INPUT {
+	DISPLAY: block; PADDING-TOP: 10px
+}
+BODY#review FIELDSET#funding-mix DIV.uach .uachincentive INPUT {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: auto; BORDER-RIGHT-WIDTH: 0px
+}
+BODY#review FIELDSET#funding-mix DIV.uach .uachflexibility INPUT {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: auto; BORDER-RIGHT-WIDTH: 0px
+}
+BODY#review FIELDSET#funding-mix DIV.uach .uachflexibility .balloonControl {
+	COLOR: #000; BORDER-BOTTOM: #000 1px dashed
+}
+BODY#review FIELDSET#funding-mix DIV.gocofferbnr {
+	CLEAR: both; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/en_US/i/bnr/bnr_goc_unverified_319x85.gif) no-repeat left top; WIDTH: 319px; HEIGHT: 85px
+}
+BODY#review FIELDSET#funding-mix DIV.uach UL {
+	PADDING-TOP: 50px; LIST-STYLE-TYPE: none
+}
+BODY#review FIELDSET#funding-mix DIV.uach UL LI {
+	DISPLAY: inline; PADDING-LEFT: 10px
+}
+BODY#review FIELDSET#funding-mix DIV.uach UL INPUT {
+	VERTICAL-ALIGN: text-bottom; WIDTH: auto; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+BODY#review FIELDSET#funding-mix DIV.uach IMG {
+	MARGIN-TOP: 10px
+}
+BODY#review FIELDSET#funding-mix DIV.uach A.gocterms {
+	LEFT: -319px; POSITION: relative; TOP: -40px
+}
+.shadow .underlay {
+	LEFT: 0px; HEIGHT: 100%! important
+}
+FIELDSET#ccdetails {
+	CLEAR: left
+}
+#billing DIV#header {
+	OVERFLOW: visible! important
+}
+#login DIV#header {
+	OVERFLOW: visible! important
+}
+#html-rosetta-container {
+	Z-INDEX: 150; MARGIN: 0px auto; WIDTH: 760px! important; POSITION: relative
+}
+#html-rosetta {
+	Z-INDEX: 150
+}
+DIV.contact-information {
+	CLEAR: left
+}
+BODY#review #mail-share {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: auto; BORDER-RIGHT-WIDTH: 0px
+}
+.leftspace {
+	PADDING-LEFT: 5px
+}
+BODY#review #information-to-merchant-mail {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; WIDTH: 40em; PADDING-TOP: 0px
+}
+DIV#email-promotion {
+	PADDING-BOTTOM: 10px
+}
+DIV#information-to-merchant-mail SPAN.line-space {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0.4em
+}
+DIV#information-to-merchant-mail SPAN#showemail INPUT {
+	BORDER-RIGHT: #adc2d6 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #adc2d6 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 1em; PADDING-BOTTOM: 2px; BORDER-LEFT: #adc2d6 1px solid; WIDTH: auto; PADDING-TOP: 2px; BORDER-BOTTOM: #adc2d6 1px solid
+}
+DIV#merchant-contact {
+	PADDING-BOTTOM: 10px
+}
+SELECT#survey-options {
+	WIDTH: auto! important
+}
+.helptext {
+	COLOR: #808080
+}
+DIV#giftNotesCount SPAN#whasthis {
+	DISPLAY: block; PADDING-LEFT: 5px; PADDING-TOP: 4px
+}
+SPAN.orangebox {
+	BORDER-RIGHT: #ffaa00 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #ffaa00 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 1px; LEFT: auto; PADDING-BOTTOM: 0px; MARGIN: 3px 0px 0px -12px; BORDER-LEFT: #ffaa00 1px solid; PADDING-TOP: 6px; BORDER-BOTTOM: #ffaa00 1px solid; POSITION: absolute; BACKGROUND-COLOR: #ffaa00
+}
+SPAN.orangebox {
+	LEFT: auto; MARGIN: 3px 0px 0px -12px; POSITION: absolute
+}
+.hide {
+	DISPLAY: none
+}
+.show {
+	DISPLAY: block
+}
+.showinline {
+	DISPLAY: inline
+}
+.showtabrow {
+	
+}
+IMG.loading-icon {
+	MARGIN-LEFT: -27px; WIDTH: 18px; POSITION: absolute; HEIGHT: 18px; TEXT-ALIGN: left
+}
+.helptxt {
+	DISPLAY: inline; FONT-SIZE: 0.8em; MARGIN: 0.1em 0px; COLOR: #808080
+}
+TD.helptxt {
+	FONT-SIZE: 1em; PADDING-BOTTOM: 3px
+}
+BODY#review P#shipping_opts_js SELECT {
+	WIDTH: auto
+}
+BODY#review P#insurance_opts_js SELECT {
+	WIDTH: auto
+}
+SELECT#offer_insurance_options {
+	WIDTH: auto! important
+}
+SELECT#offer_insurance_options_loading {
+	WIDTH: auto! important
+}
+SELECT#insurance_options_njs {
+	WIDTH: auto! important
+}
+DIV#content P#shipping_opts_js {
+	PADDING-LEFT: 0px
+}
+DIV#content P#insurance_opts_js {
+	PADDING-LEFT: 0px
+}
+DIV#content P#insurance_njs_txt {
+	PADDING-LEFT: 0px
+}
+.country_specific_br .addressHelpText {
+	DISPLAY: block; FONT-SIZE: 11px; COLOR: #757575
+}
+DIV.defaultpluscard {
+	BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/fr_FR/i/bnr/bnr_ppeucc_40x25.gif) no-repeat; MARGIN-LEFT: 4.5em
+}
+FIELDSET#funding-mix DIV.fieldrow DIV.pluscardfr DIV.defaultpluscard {
+	CLEAR: both; PADDING-LEFT: 0.4em; BACKGROUND: url(/MERCHANTPAYMENTWEB-610-20100225-1/fr_FR/i/bnr/bnr_ppeucc_40x25.gif) no-repeat 0px 0.3em; MARGIN: 0.5em 0px 0px 4.3em
+}
+DIV.defaultbcredit {
+	CLEAR: both; WIDTH: auto
+}
+DIV.temppluscard {
+	CLEAR: both; WIDTH: auto
+}
+FIELDSET#funding-mix DIV.pluscard DIV.defaultpluscard P {
+	PADDING-LEFT: 50px; MARGIN: 0px
+}
+FIELDSET#funding-mix DIV.buyercredit DIV.defaultbcredit P {
+	PADDING-LEFT: 3.5em; FONT-SIZE: 1em; MARGIN: 0px; COLOR: #757575
+}
+FIELDSET#funding-mix DIV.buyercreditfr DIV.defaultbcredit P {
+	PADDING-LEFT: 3.5em; FONT-SIZE: 1em; MARGIN: 0px; COLOR: #757575
+}
+FIELDSET#funding-mix DIV.pluscardfr DIV.temppluscard P {
+	PADDING-LEFT: 4em; FONT-SIZE: 1em; MARGIN: 0px; COLOR: #757575
+}
+DIV.applynow {
+	CLEAR: left; PADDING-TOP: 1em
+}
+FIELDSET#funding-mix DIV.funding-item DIV.applynow LABEL {
+	PADDING-LEFT: 0px; WIDTH: auto
+}
+DIV.applynowmsg {
+	MARGIN: 0.1em 0px 0px 1.8em; WIDTH: auto
+}
+DIV#invitationToApply {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0.8em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0px
+}
+DIV#invitationToApply P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 1em; PADDING-TOP: 0.3em
+}
+DIV#invitationToApply INPUT#preapproval_flow {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; WIDTH: auto; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+FIELDSET#funding-mix DIV.funding-item DIV.applynow DIV.applynowmsg P {
+	PADDING-LEFT: 0px; FONT-SIZE: 1em; MARGIN: 0px
+}
+DIV.applynowmsg P INPUT {
+	MARGIN: 0.1em
+}
+DIV.bcfrcredit P {
+	PADDING-BOTTOM: 0.1em
+}
+DIV#panelpc P {
+	PADDING-BOTTOM: 1em
+}
+DIV#panelbc P {
+	PADDING-BOTTOM: 1em
+}
+DIV#panelapplynow P {
+	PADDING-BOTTOM: 1em
+}
+DIV#paneldefault P {
+	PADDING-BOTTOM: 1em
+}
+DIV.value DIV.buyercredit {
+	HEIGHT: auto! important
+}
+DIV.buyercredit {
+	HEIGHT: auto! important
+}
+DIV.pluscard {
+	HEIGHT: auto! important
+}
+DIV.pluscardfr {
+	CLEAR: both
+}
+DIV.buyercreditfr {
+	CLEAR: both
+}
+FIELDSET#funding-mix DIV.pluscardfr DIV.defaultpluscard P {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1em; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 3.4em; COLOR: #757575; PADDING-TOP: 0px
+}
+BODY#review FORM#reviewForm FIELDSET DIV.funding-mix DIV.value#funding-mix-box FIELDSET#funding-mix DIV.fieldrow {
+	HEIGHT: auto! important
+}
+BODY#review FIELDSET#funding-mix {
+	WIDTH: 530px
+}
+BODY#review #funding-mix-box {
+	CLEAR: right
+}
+FIELDSET#funding-mix DIV.funding-item DIV#frmkdefaultbc {
+	PADDING-RIGHT: 0.6em; PADDING-LEFT: 0.6em; PADDING-BOTTOM: 0.6em; MARGIN: 0.4em 0px 1em 1.6em; OVERFLOW: auto; PADDING-TOP: 0.6em; BACKGROUND-COLOR: #e8f1fa
+}
+FIELDSET#funding-mix DIV.funding-item DIV#frmkdefaultbc LABEL {
+	WIDTH: 270px
+}
+FIELDSET#funding-mix DIV.funding-item DIV#frmkdefaultpc {
+	CLEAR: both; PADDING-RIGHT: 0.6em; PADDING-LEFT: 0.6em; PADDING-BOTTOM: 0.6em; MARGIN: 0.2em 0px 1em 1.6em; OVERFLOW: auto; PADDING-TOP: 0.6em; BACKGROUND-COLOR: #e8f1fa
+}
+FIELDSET#funding-mix DIV.funding-item DIV#frmkdefaultpc LABEL {
+	WIDTH: 270px
+}
+FIELDSET#funding-mix DIV.funding-item DIV#frmkdefaultpc INPUT {
+	FLOAT: left; WIDTH: 1.5em
+}
+DIV#frmkdefaultbc INPUT {
+	FLOAT: left; WIDTH: 1.5em
+}

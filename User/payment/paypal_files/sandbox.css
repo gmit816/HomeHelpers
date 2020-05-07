@@ -1,0 +1,78 @@
+BODY {
+	BORDER-RIGHT: #efefef 20px solid; BORDER-TOP: #efefef 0px solid; MARGIN: 0px; BORDER-LEFT: #efefef 20px solid; COLOR: #333; BORDER-BOTTOM: #efefef 0px solid
+}
+#xptSandbox {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 0px! important; PADDING-TOP: 0px! important
+}
+#xptSandboxHead {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; BACKGROUND: url(../../../en_US/i/IntegrationCenter/scr/src_ic_header_gradient.jpg); PADDING-BOTTOM: 21px; MARGIN: 0px; OVERFLOW: auto; PADDING-TOP: 18px; HEIGHT: 39px; TEXT-ALIGN: right
+}
+#xptSandboxHead IMG {
+	PADDING-LEFT: 20px; FLOAT: left
+}
+#xptContentOuter {
+	
+}
+#header {
+	
+}
+#navSecondary {
+	
+}
+#sandboxFooter {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 50px; OVERFLOW: auto; PADDING-TOP: 0px
+}
+#sandboxFooter .nav-footer {
+	BACKGROUND: url(../../../en_US/i/IntegrationCenter/scr/src_ic_header_gradient.jpg) 0px 0px; OVERFLOW: scroll; HEIGHT: 2px
+}
+#sandboxFooter .nav-footer .left_corner {
+	FLOAT: left; POSITION: relative
+}
+#sandboxFooter .nav-footer .right_corner {
+	FLOAT: right
+}
+#sandboxFooter .nav-footer UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#sandboxFooter .nav-footer UL LI {
+	PADDING-RIGHT: 5px; DISPLAY: inline; PADDING-LEFT: 5px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 9px 0px; BORDER-LEFT: #e4edf6 1px solid; COLOR: #ffffff; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#sandboxFooter .nav-footer LI.first {
+	BORDER-LEFT-WIDTH: 0px
+}
+#sandboxFooter .nav-footer A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+#sandboxFooter .nav-footer A:hover {
+	TEXT-DECORATION: underline
+}
+#sandboxFooter P.company {
+	RIGHT: 0px; MARGIN: 9px 50px; COLOR: #fff; POSITION: absolute
+}
+#sandboxFooter DIV.copyright {
+	CLEAR: left; MARGIN-TOP: 10px; PADDING-LEFT: 10px; FONT-SIZE: 90%; FLOAT: left; WIDTH: 400px
+}
+#sandboxFooter DIV.copyright P {
+	MARGIN: 0px 0px 10px
+}
+#sandboxFooter DIV.logo-partner {
+	CLEAR: right; PADDING-RIGHT: 5px; FLOAT: right; WIDTH: 250px; PADDING-TOP: 10px
+}
+#sandboxFooter DIV.logo-partner IMG {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+#testsite {
+	OVERFLOW: hidden; WIDTH: 100%; TEXT-ALIGN: left
+}
+#testsite H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; FONT-SIZE: 130%; PADDING-BOTTOM: 10px; MARGIN: 10px 0px 0px; WIDTH: 100%; COLOR: #333333; PADDING-TOP: 0px; FONT-FAMILY: Verdana
+}
+#sandbox_redirect {
+	BORDER-TOP: #cccccc 2px solid; BORDER-BOTTOM: #cccccc 2px solid
+}
+#footerSandbox {
+	LEFT: -18px; WIDTH: 100%; POSITION: relative
+}
+P {
+	MARGIN: 1em 0pt
+}

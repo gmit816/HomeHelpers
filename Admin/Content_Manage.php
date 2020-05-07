@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+<?php
+require_once("Navigation.php");
+?>
+<head>
+    <title>Content Manage</title>
+</head>
+<body>
+<div id="wrapper">
+    <div id="page-wrapper" style="margin-top: 98px;">
+        <div class="graphs">
+            <div class="xs">
+                <h3>Manage Content</h3>
+                <div class="tab-content" style="margin-top: 80px;margin-bottom: 80px;">
+                    <div class="tab-pane active" id="horizontal-form">
+                        <div class="col-md-4 col_1_of_2 span_1_of_2">
+                            <a class="tiles_info" href="City_Add.php">
+                                <div class="tiles-body fb2" style="padding-top: 75px;padding-bottom: 75px;margin-top: 20px;margin-bottom: 20px;">
+                                    <div class="text-center" style="font-size: 24px;">MANAGE SUB-SERVICE</div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col_1_of_2 span_1_of_2">
+                            <a class="tiles_info" href="City_View_Delete.php">
+                                <div class="tiles-body fb2" style="padding-top: 75px;padding-bottom: 75px;margin-top: 20px;margin-bottom: 20px;">
+                                    <div class="text-center" style="font-size: 24px;">VIEW / DELETE CITY</div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col_1_of_2 span_1_of_2">
+                            <a class="tiles_info" href="City_View_Delete.php">
+                                <div class="tiles-body fb2" style="padding-top: 75px;padding-bottom: 75px;margin-top: 20px;margin-bottom: 20px;">
+                                    <div class="text-center" style="font-size: 24px;">VIEW / DELETE CITY</div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col_1_of_2 span_1_of_2">
+                            <a class="tiles_info" href="City_View_Delete.php">
+                                <div class="tiles-body fb2" style="padding-top: 75px;padding-bottom: 75px;margin-top: 20px;margin-bottom: 20px;">
+                                    <div class="text-center" style="font-size: 24px;">VIEW / DELETE CITY</div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col_1_of_2 span_1_of_2">
+                            <a class="tiles_info" href="City_View_Delete.php">
+                                <div class="tiles-body fb2" style="padding-top: 75px;padding-bottom: 75px;margin-top: 20px;margin-bottom: 20px;">
+                                    <div class="text-center" style="font-size: 24px;">VIEW / DELETE CITY</div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col_1_of_2 span_1_of_2">
+                            <a class="tiles_info" href="City_View_Delete.php">
+                                <div class="tiles-body fb2" style="padding-top: 75px;padding-bottom: 75px;margin-top: 20px;margin-bottom: 20px;">
+                                    <div class="text-center" style="font-size: 24px;">VIEW / DELETE CITY</div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+
+                <div class="copy_layout">
+                    <p>Copyright © 2016. Still No Rights Reserved | Designed by <b style="font-weight: 500">M!t</b></p>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-wrapper -->
+    </div>
+    <!-- /#wrapper -->
+</body>
+</html>
